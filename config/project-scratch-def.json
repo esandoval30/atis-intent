@@ -1,0 +1,25 @@
+{
+  "orgName": "ATIS Intent Accuracy",
+  "edition": "Enterprise",
+  "adminEmail": "esandoval@salesforce.com",
+  "description": "Train an Einstein Language Intent model and measure its accuracy",
+  "features": [
+    "AnalyticsAdminPerms",
+    "EinsteinAnalyticsPlus",
+    "AddInsightsQueryLimit:1",
+    "DevelopmentWave"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    }
+  }
+}
