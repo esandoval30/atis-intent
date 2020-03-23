@@ -1,801 +1,801 @@
-Original_Intent__c,Ext_Id__c,Predicted_Intent__c,Utterance__c
-atis_flight,a0BB0000002YkDiMAK,atis_flight,show me the cheapest one way flights from montreal to orlando
-atis_flight,a0BB0000002YkDjMAK,atis_flight,show me the cheapest one way flights from orlando to montreal
-atis_flight,a0BB0000002YkDkMAK,atis_flight,show me the cheapest economy flights from miami to new york
-atis_flight,a0BB0000002YkDlMAK,atis_flight,kansas city to las vegas economy
-atis_flight,a0BB0000002YkDmMAK,atis_flight,kansas city to las vegas economy
-atis_airline,a0BB0000002YkDnMAK,atis_airline,what airline is hp
-atis_ground_service,a0BB0000002YkDoMAK,atis_ground_service,ground transportation in las vegas
-atis_ground_service,a0BB0000002YkDpMAK,atis_ground_service,ground transportation for las vegas
-atis_flight,a0BB0000002YkDqMAK,atis_flight,las vegas to baltimore economy
-atis_flight,a0BB0000002YkDrMAK,atis_flight,las vegas to baltimore economy
-atis_flight,a0BB0000002YkDsMAK,atis_flight,baltimore to kansas city economy
-atis_airline,a0BB0000002YkDtMAK,atis_airline,what airline is us
-atis_airline,a0BB0000002YkDuMAK,atis_airline,which airline is us
-atis_airline,a0BB0000002YkDvMAK,atis_airline,which airline is us
-atis_airline,a0BB0000002YkDwMAK,atis_airline,which airline is us
-atis_airline,a0BB0000002YkDxMAK,atis_airline,which airline is us
-atis_flight,a0BB0000002YkDyMAK,atis_flight,columbus to chicago one way before 10 am
-atis_airline,a0BB0000002YkDzMAK,atis_airline,what airline is hp
-atis_flight,a0BB0000002YkAnMAK,atis_flight,show me the flights between oakland and salt lake city
-atis_abbreviation,a0BB0000002YkAmMAK,atis_abbreviation,what is mci
-atis_abbreviation,a0BB0000002YkAoMAK,atis_abbreviation,what does not sa mean
-atis_flight,a0BB0000002YkApMAK,atis_flight,what is the earliest daily flight between oakland and salt lake city
-atis_airline,a0BB0000002YkAqMAK,atis_airline,what airline is dl
-atis_flight,a0BB0000002YkArMAK,atis_flight,what is the latest daily flight between oakland and salt lake city
-atis_flight,a0BB0000002YkAsMAK,atis_flight,show me the flights between los angeles and dallas
-atis_ground_service,a0BB0000002YkAtMAK,atis_ground_service,what ground transportation is available from dallas fort worth airport to downtown dallas
-atis_flight,a0BB0000002YkAuMAK,atis_flight,what are the flights between dallas and phoenix
-atis_ground_service,a0BB0000002YkAvMAK,atis_ground_service,what ground transportation is available between phoenix airport and downtown phoenix
-atis_flight,a0BB0000002YkAwMAK,atis_flight,are there any flights between dallas and phoenix using a dc10 aircraft
-atis_airline,a0BB0000002YkAxMAK,atis_airline,what airline is aa
-atis_flight,a0BB0000002YkAyMAK,atis_flight,show me the flights between milwaukee and indiana
-atis_flight,a0BB0000002YkIEMA0,atis_flight,now show me all the flights from st. louis to burbank
-atis_airline,a0BB0000002YkIFMA0,atis_airline,is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank
-atis_flight,a0BB0000002YkIDMA0,atis_flight,find me all the flights from milwaukee to st. louis
-atis_flight,a0BB0000002YkIGMA0,atis_flight,find me all the round trip flights from burbank to milwaukee stopping in st. louis
-atis_flight,a0BB0000002YkIHMA0,atis_flight,i'd like to book two flights to westchester county
-atis_flight,a0BB0000002YkIIMA0,atis_flight,i want to book a flight from salt lake city to westchester county
-atis_flight,a0BB0000002YkIJMA0,atis_flight,i'd like to book a flight from cincinnati to new york city on united airlines for next saturday
-atis_flight,a0BB0000002YkIKMA0,atis_flight,please find all the flights from cincinnati to any airport in the new york city area that arrive next saturday before 6 pm
-atis_flight,a0BB0000002YkILMA0,atis_flight,find me a flight from cincinnati to any airport in the new york city area
-atis_flight,a0BB0000002YkIMMA0,atis_flight,i'd like to fly from miami to chicago on american airlines
-atis_flight,a0BB0000002YkINMA0,atis_flight,i would like to book a round trip flight from kansas city to chicago
-atis_flight,a0BB0000002YkIOMA0,atis_flight,find me a flight that flies from memphis to tacoma
-atis_flight,a0BB0000002Yk6PMAS,atis_flight,which round trip flights leave chicago next tuesday around 6 pm and arrive in detroit
-atis_flight,a0BB0000002Yk6QMAS,atis_flight,which round trip flights leave chicago next tuesday and arrive in detroit around 6 pm
-atis_flight,a0BB0000002Yk6OMAS,atis_flight,show me round trip flights from chicago to detroit leaving next tuesday and returning the day after
-atis_flight,a0BB0000002Yk6RMAS,atis_flight,which flights leave on monday from montreal and arrive in chicago in the morning
-atis_flight,a0BB0000002Yk6SMAS,atis_flight,which flights leave chicago on april twelfth and arrive in indianapolis in the morning
-atis_flight,a0BB0000002Yk6TMAS,atis_flight,which flights leave on wednesday april thirteenth from indianapolis and arrive in montreal in the morning
-atis_flight,a0BB0000002Yk6UMAS,atis_flight,which flights leave april twelfth from indianapolis and arrive in montreal around 10 pm
-atis_flight,a0BB0000002Yk6VMAS,atis_flight,i'd like to go from long beach to st. louis and i'd like to stop in dallas i'd also like to have lunch during my flight
-atis_flight,a0BB0000002Yk6WMAS,atis_flight,next wednesday i would like to leave kansas city on a trip to chicago which arrives in chicago around 7 pm
-atis_flight,a0BB0000002Yk6XMAS,atis_flight,i would like to return from chicago around 7 pm to kansas city
-atis_flight,a0BB0000002Yk6YMAS,atis_flight,i would like to leave this afternoon on an american flight from cincinnati to burbank
-atis_flight,a0BB0000002Yk6ZMAS,atis_flight,on sunday evening i would like to leave montreal quebec on a flight to san diego california
-atis_flight,a0BB0000002Yk6aMAC,atis_flight,what are the flights on sunday from montreal quebec to san diego california
-atis_flight,a0BB0000002Yk6bMAC,atis_flight,on tuesday are the flights from san diego california to indianapolis indiana i would like the flight to be in the afternoon
-atis_flight,a0BB0000002Yk6cMAC,atis_flight,on thursday morning i would like a nonstop flight from indianapolis to toronto
-atis_flight,a0BB0000002Yk6dMAC,atis_flight,on friday morning i would like to fly from toronto to montreal
-atis_flight,a0BB0000002Yk6eMAC,atis_flight,i would like an early morning flight today from los angeles to charlotte
-atis_flight,a0BB0000002Yk6fMAC,atis_flight,on wednesday night i would like a flight from charlotte to newark
-atis_flight,a0BB0000002Yk6gMAC,atis_flight,on friday night i would like a flight from newark to los angeles
-atis_flight,a0BB0000002Yk6hMAC,atis_flight,find a flight from tampa to montreal by way of new york
-atis_flight,a0BB0000002Yk6iMAC,atis_flight,please find a flight from miami florida to las vegas nevada arriving before 4 o'clock pm
-atis_flight,a0BB0000002Yk6jMAC,atis_flight,please find a flight from las vegas to michigan
-atis_flight,a0BB0000002Yk6kMAC,atis_flight,please find a flight from detroit michigan to st. petersburg arriving before 10 pm
-atis_flight,a0BB0000002Yk6lMAC,atis_flight,please find a flight from st. petersburg to miami on thursday
-atis_flight,a0BB0000002Yk6mMAC,atis_flight,please find a flight from san diego to toronto on alaska airlines
-atis_flight,a0BB0000002Yk6nMAC,atis_flight,please find the flights from columbus to houston with a layover in nashville tomorrow
-atis_flight,a0BB0000002Yk6oMAC,atis_flight,please give me the flights from nashville to houston nonstop with dinner served
-atis_flight,a0BB0000002Yk6pMAC,atis_flight,please find flights available from kansas city to newark
-atis_flight,a0BB0000002Yk6qMAC,atis_flight,please find a flight that goes from kansas city to newark to orlando back to kansas city
-atis_flight,a0BB0000002Yk6rMAC,atis_flight,please find a flight from kansas city to newark
-atis_flight,a0BB0000002Yk6sMAC,atis_flight,please find a flight from newark to orlando
-atis_flight,a0BB0000002Yk6tMAC,atis_flight,please find a flight from orlando to kansas city
-atis_flight,a0BB0000002Yk6uMAC,atis_flight,i would like to fly from columbus to phoenix through cincinnati in the afternoon
-atis_flight,a0BB0000002Yk6vMAC,atis_flight,does the airport at burbank have a flight that comes in from kansas city
-atis_flight,a0BB0000002Yk6wMAC,atis_flight,which flights arrive in burbank from kansas city on saturdays in the afternoon
-atis_flight,a0BB0000002Yk6xMAC,atis_flight,which flights arrive in burbank from las vegas on saturday april twenty third in the afternoon
-atis_flight,a0BB0000002Yk6yMAC,atis_flight,which flights are available from orlando to cleveland that arrive around 10 pm
-atis_flight,a0BB0000002Yk6zMAC,atis_flight,what flights are available from indianapolis to san diego on april twenty first in the late afternoon
-atis_flight,a0BB0000002Yk70MAC,atis_flight,what flights leave cleveland going to indianapolis on april twenty first in the morning
-atis_flight,a0BB0000002Yk71MAC,atis_flight,which flights are available on april twenty first in the morning from nashville to tacoma
-atis_flight,a0BB0000002Yk72MAC,atis_flight,which flights are available from tacoma to san jose in the morning on april twenty second
-atis_flight,a0BB0000002Yk73MAC,atis_flight,which flights are available from san jose to nashville leaving in the morning on april twenty three
-atis_airfare,a0BB0000002Yk74MAC,atis_airfare,what is the most expensive one way fare between detroit and westchester county
-atis_airline,a0BB0000002Yk75MAC,atis_airline,what airlines fly between detroit and westchester county
-atis_flight_time,a0BB0000002Yk76MAC,atis_flight_time,what are the departure times from detroit to westchester county
-atis_flight,a0BB0000002Yk77MAC,atis_flight,what is the latest flight from baltimore to oakland that serves dinner
-atis_flight,a0BB0000002Yk78MAC,atis_flight,what is the earliest flight between baltimore and oakland that serves breakfast
-atis_airline,a0BB0000002Yk79MAC,atis_airline,what airline flies from boston to san diego
-atis_flight,a0BB0000002Yk7AMAS,atis_flight,what is the latest breakfast flight from dallas to tampa
-atis_flight,a0BB0000002Yk7BMAS,atis_flight,show me all lufthansa flights from seattle to boston with stopovers in minneapolis
-atis_flight,a0BB0000002Yk7CMAS,atis_flight,show me all flights from seattle to boston with stopovers in minneapolis
-atis_flight,a0BB0000002Yk7DMAS,atis_flight,list philadelphia to san francisco flights with stopovers in dallas
-atis_flight,a0BB0000002Yk7EMAS,atis_flight,show me the connecting flights between boston and denver and the types of aircraft used
-atis_flight,a0BB0000002Yk7FMAS,atis_flight,show me all the morning flights from philadelphia to fort worth
-atis_flight,a0BB0000002Yk7GMAS,atis_flight,show me all the flights from kansas city to st. paul
-atis_flight,a0BB0000002Yk7HMAS,atis_flight,show me northwest flight 608 from kansas city to st. paul
-atis_flight,a0BB0000002Yk7IMAS,atis_flight,show me all the flights from indianapolis to charlotte on monday
-atis_ground_service,a0BB0000002Yk7JMAS,atis_ground_service,what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte
-atis_flight,a0BB0000002Yk7KMAS,atis_flight,show me all the flights from charlotte to minneapolis that leave at 2 pm or later on monday
-atis_flight,a0BB0000002Yk7LMAS,atis_flight,show me all the flights from charlotte to minneapolis on tuesday morning
-atis_flight,a0BB0000002Yk7MMAS,atis_flight,show me the direct flights from charlotte to minneapolis on tuesday morning
-atis_flight,a0BB0000002Yk7NMAS,atis_flight,show me flight us 1500 on monday from charlotte to minneapolis please
-atis_flight,a0BB0000002Yk7OMAS,atis_flight,show me all the flights from minneapolis to indianapolis on tuesday that leave after 2 pm
-atis_flight,a0BB0000002Yk7PMAS,atis_flight,show me the flights from minneapolis to indiana
-atis_ground_service,a0BB0000002YkB0MAK,atis_ground_service,what ground transportation is available between pittsburgh airport and downtown pittsburgh
-atis_flight,a0BB0000002YkB1MAK,atis_flight,show me the flights between pittsburgh and washington dc
-atis_flight,a0BB0000002YkAzMAK,atis_flight,what are the flights between milwaukee and pittsburgh
-atis_ground_service,a0BB0000002YkB2MAK,atis_ground_service,what ground transportation is available between dca and downtown washington
-atis_flight,a0BB0000002YkB3MAK,atis_flight,what are the flights between dca and milwaukee
-atis_ground_service,a0BB0000002YkB4MAK,atis_ground_service,what ground transportation is available between milwaukee airport and downtown milwaukee
-atis_aircraft,a0BB0000002YkB5MAK,atis_aircraft,determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon
-atis_flight,a0BB0000002YkB6MAK,atis_flight,find a flight between st. petersburg and charlotte the flight should leave in the afternoon and arrive as soon after 5 pm as possible it should be a nonstop flight
-atis_flight,a0BB0000002YkB7MAK,atis_flight,list a flight on delta airlines from toronto to san diego
-atis_flight,a0BB0000002YkB8MAK,atis_flight,list a flight on american airlines from toronto to san diego
-atis_flight,a0BB0000002YkB9MAK,atis_flight,list a flight from toronto to san diego
-atis_flight,a0BB0000002YkBAMA0,atis_flight,list flights from oakland to salt lake city leaving after 1700 wednesday
-atis_flight,a0BB0000002YkBBMA0,atis_flight,list flights from oakland to salt lake city leaving after midnight thursday
-atis_flight,a0BB0000002YkBCMA0,atis_flight,list flights between phoenix and las vegas
-atis_flight,a0BB0000002YkBDMA0,atis_flight,list flights from las vegas to denver
-atis_flight,a0BB0000002YkBEMA0,atis_flight,list flights from milwaukee to washington dc before 1200
-atis_flight,a0BB0000002YkBFMA0,atis_flight,list flights from washington dc to pittsburgh leaving after 1800
-atis_flight,a0BB0000002YkBGMA0,atis_flight,list flights from washington dc to pittsburgh
-atis_flight,a0BB0000002YkBHMA0,atis_flight,list flights between pittsburgh and milwaukee
-atis_flight,a0BB0000002YkBIMA0,atis_flight,i'd like a flight to san diego from washington dc
-atis_flight,a0BB0000002YkBJMA0,atis_flight,i'd like to fly from cleveland to dallas
-atis_flight,a0BB0000002YkBKMA0,atis_flight,i want to fly from washington dc to phoenix arizona
-atis_flight,a0BB0000002YkBLMA0,atis_flight,i need a flight from phoenix to atlanta
-atis_flight,a0BB0000002YkBMMA0,atis_flight,i would like to fly from atlanta to san diego
-atis_flight,a0BB0000002YkBNMA0,atis_flight,i would like to fly from san diego to seattle
-atis_flight,a0BB0000002YkBOMA0,atis_flight,i would like to fly from orlando to kansas city
-atis_flight,a0BB0000002YkBPMA0,atis_flight,i need a flight from kansas city to minneapolis
-atis_flight,a0BB0000002YkBQMA0,atis_flight,i need a flight from san diego to washington dc
-atis_flight,a0BB0000002YkBRMA0,atis_flight,i need a flight from washington dc to san diego
-atis_airfare,a0BB0000002YkBSMA0,atis_airfare,what is the lowest fare for a flight from washington dc to boston
-atis_airfare,a0BB0000002YkBTMA0,atis_airfare,what is the lowest fare from washington dc to montreal
-atis_airfare,a0BB0000002YkBUMA0,atis_airfare,what is the lowest fare from toronto to washington dc
-atis_flight,a0BB0000002YkBVMA0,atis_flight,i want a flight from montreal to washington dc
-atis_flight,a0BB0000002YkBWMA0,atis_flight,i want a flight from nashville to seattle that arrives no later than 3 pm
-atis_flight,a0BB0000002Yk7RMAS,atis_flight,show me flight us 1207 from indianapolis to charlotte on monday and flight us 1500 from charlotte to minneapolis on monday and flight twa 639 from minneapolis to indianapolis
-atis_flight,a0BB0000002Yk7SMAS,atis_flight,show me all the flights from las vegas to new york city
-atis_flight,a0BB0000002Yk7QMAS,atis_flight,show me the flights in from minneapolis to indianapolis on tuesday afternoon
-atis_airline,a0BB0000002Yk7TMAS,atis_flight,which different airlines go from las vegas to new york city
-atis_flight,a0BB0000002Yk7UMAS,atis_flight,show me all the flights on america west and twa from las vegas to jfk on a friday
-atis_flight,a0BB0000002Yk7VMAS,atis_flight,what are the flights from tacoma to miami that leave after 6 pm tomorrow
-atis_flight,a0BB0000002Yk7WMAS,atis_flight,i'd like to fly from san diego to houston on june tenth
-atis_flight,a0BB0000002Yk7XMAS,atis_flight,is there an american airlines flight from houston to newark on june tenth after 6 pm
-atis_flight,a0BB0000002Yk7YMAS,atis_flight,is there an american airlines flight from houston to newark on june tenth after 3 pm
-atis_flight,a0BB0000002Yk7ZMAS,atis_flight,i need to get from cincinnati to denver on june sixth by 6 pm
-atis_ground_service,a0BB0000002Yk7aMAC,atis_ground_service,what's the ground transportation in denver
-atis_flight,a0BB0000002Yk7bMAC,atis_flight,i need to fly from denver to westchester county on june seventh after 3 pm
-atis_ground_service,a0BB0000002Yk7cMAC,atis_ground_service,what's the ground transportation in westchester county
-atis_flight,a0BB0000002Yk7dMAC,atis_flight,i need to take a united airlines flight on june eighth from westchester county to cincinnati after 3 pm
-atis_flight,a0BB0000002Yk7eMAC,atis_flight,what united airlines flights on june eighth go from westchester county to cincinnati
-atis_flight,a0BB0000002Yk7fMAC,atis_flight,on june eighth what flights go from westchester county to cincinnati
-atis_flight,a0BB0000002Yk7gMAC,atis_flight,does us air fly from cincinnati to denver on june sixth
-atis_flight,a0BB0000002Yk7hMAC,atis_flight,list the flights from cincinnati to denver on june sixth
-atis_flight,a0BB0000002Yk7iMAC,atis_flight,list the flights from denver to westchester county on june seventh
-atis_flight,a0BB0000002Yk7jMAC,atis_flight,list the flights from westchester county to cincinnati on june eighth
-atis_flight,a0BB0000002Yk7kMAC,atis_flight,list the flights from cincinnati to westchester county on june sixth
-atis_flight,a0BB0000002Yk7lMAC,atis_flight,list the flights from westchester county to denver on june seventh
-atis_flight,a0BB0000002Yk7mMAC,atis_flight,list the flights from denver to cincinnati on june eighth
-atis_flight,a0BB0000002Yk7nMAC,atis_flight,list the flights from denver to cincinnati on june sixth after 4 pm
-atis_flight,a0BB0000002Yk7oMAC,atis_flight,list the flights from cincinnati to westchester county on june seventh
-atis_flight,a0BB0000002Yk7pMAC,atis_flight,list the flights from westchester county to cincinnati on june seventh leaving after 5 pm
-atis_airline,a0BB0000002Yk7qMAC,atis_airline,what airlines off from love field between 6 and 10 am on june sixth
-atis_flight,a0BB0000002Yk7rMAC,atis_flight,what flights arrive at love field on june sixth
-atis_airfare,a0BB0000002YkBvMAK,atis_airfare,list fares from washington dc to montreal
-atis_flight,a0BB0000002YkBXMA0,atis_flight,i want a flight from memphis to seattle that arrives no later than 3 pm
-atis_flight,a0BB0000002YkBYMA0,atis_flight,i need a flight from indianapolis to seattle arriving in seattle at 1205 pm
-atis_flight,a0BB0000002YkBZMA0,atis_flight,i want a flight round trip from memphis to seattle
-atis_flight,a0BB0000002YkBwMAK,atis_flight,list flights from washington dc to montreal
-atis_flight,a0BB0000002YkBaMAK,atis_flight,i want to fly from nashville to seattle and i want the cheapest fare round trip
-atis_flight,a0BB0000002YkBbMAK,atis_flight,i want to fly from memphis to seattle round trip with the cheapest fare
-atis_flight,a0BB0000002YkBcMAK,atis_flight,i want to fly from indianapolis to seattle round trip with the cheapest fare
-atis_airfare,a0BB0000002YkBxMAK,atis_airfare,list fares from washington dc to toronto that should be good
-atis_flight,a0BB0000002YkBdMAK,atis_flight,please list flights from orlando to philadelphia
-atis_flight,a0BB0000002YkBeMAK,atis_flight,please list flights from san francisco to charlotte
-atis_flight,a0BB0000002YkBfMAK,atis_flight,please list flights from milwaukee to philadelphia
-atis_airfare,a0BB0000002YkByMAK,atis_airfare,list fares from washington dc to boston
-atis_flight,a0BB0000002YkBgMAK,atis_flight,please list flights from philadelphia to san francisco
-atis_ground_service,a0BB0000002YkBhMAK,atis_ground_service,please show ground transportation to milwaukee
-atis_flight,a0BB0000002YkBiMAK,atis_flight,please list flights from san francisco to milwaukee
-atis_flight,a0BB0000002YkBjMAK,atis_flight,list flights from houston to denver
-atis_flight,a0BB0000002YkBkMAK,atis_flight,list flights from houston to phoenix
-atis_flight,a0BB0000002YkBlMAK,atis_flight,list flights from phoenix to houston
-atis_flight,a0BB0000002YkBmMAK,atis_flight,list flights from newark to houston
-atis_flight,a0BB0000002YkBnMAK,atis_flight,show flights from denver to houston
-atis_flight,a0BB0000002YkBoMAK,atis_flight,show flights from st. petersburg to charlotte
-atis_flight,a0BB0000002YkBpMAK,atis_flight,show flights from orlando to kansas city
-atis_flight,a0BB0000002YkBqMAK,atis_flight,show flights from kansas city to minneapolis
-atis_flight,a0BB0000002YkBrMAK,atis_flight,show flights from kansas city to orlando
-atis_flight,a0BB0000002YkBsMAK,atis_flight,show flights from minneapolis to kansas city
-atis_flight,a0BB0000002YkBtMAK,atis_flight,show flights from kansas city to orlando
-atis_flight,a0BB0000002YkBuMAK,atis_flight,list flights from washington dc to boston
-atis_flight,a0BB0000002YkBzMAK,atis_flight,list flights from washington dc to montreal
-atis_flight,a0BB0000002YkE0MAK,atis_flight,st. petersburg to detroit
-atis_flight,a0BB0000002YkE1MAK,atis_flight,from milwaukee to orlando one way after 5 pm wednesday
-atis_flight,a0BB0000002YkE2MAK,atis_flight,and from milwaukee to atlanta before 10 am daily
-atis_airline,a0BB0000002YkE3MAK,atis_airline,what airline is yx
-atis_flight,a0BB0000002YkE4MAK,atis_flight,show me all flights from san jose to phoenix
-atis_flight,a0BB0000002YkE5MAK,atis_flight,show me all flights from san jose to phoenix
-atis_airline,a0BB0000002YkE6MAK,atis_airline,what airline is hp
-atis_ground_service,a0BB0000002YkE7MAK,atis_ground_service,show me ground transportation in phoenix
-atis_flight,a0BB0000002YkE8MAK,atis_flight,show me flights from phoenix to fort worth
-atis_ground_service,a0BB0000002YkE9MAK,atis_ground_service,show me ground transportation in fort worth
-atis_flight,a0BB0000002YkEAMA0,atis_flight,show me flights from fort worth to san jose
-atis_flight,a0BB0000002YkEBMA0,atis_flight,show me first class flights from new york to miami round trip
-atis_flight,a0BB0000002YkECMA0,atis_flight,show me first class flights from new york to miami round trip
-atis_flight,a0BB0000002YkEDMA0,atis_flight,show me all round trip flights from new york to miami nonstop
-atis_flight,a0BB0000002YkEEMA0,atis_flight,show me all round trip flights from miami to new york nonstop
-atis_flight,a0BB0000002YkEFMA0,atis_flight,show me one way flights from indianapolis to memphis before 10 am on any day
-atis_abbreviation,a0BB0000002YkEGMA0,atis_abbreviation,what does fare code f mean
-atis_flight,a0BB0000002YkEHMA0,atis_flight,show me round trip flights from burbank to tacoma
-atis_abbreviation,a0BB0000002YkEIMA0,atis_abbreviation,what does the restriction ap58 mean
-atis_abbreviation,a0BB0000002YkEJMA0,atis_abbreviation,what does fare code h mean
-atis_airline,a0BB0000002YkEKMA0,atis_airline,what airline is as
-atis_airline,a0BB0000002YkELMA0,atis_airline,what airline is as
-atis_airline,a0BB0000002YkEMMA0,atis_airline,what airline is as
-atis_airline,a0BB0000002YkENMA0,atis_airline,what airline is as as in sam
-atis_flight,a0BB0000002YkEOMA0,atis_flight,show me nonstop flights from st. petersburg to toronto
-atis_flight,a0BB0000002YkEPMA0,atis_flight,show me nonstop flights from toronto to st. petersburg
-atis_flight,a0BB0000002Yk7sMAC,atis_flight,list the flights from montreal to philly before 9 am
-atis_flight,a0BB0000002Yk7tMAC,atis_flight,list the flights from cleveland to memphis
-atis_flight,a0BB0000002Yk7uMAC,atis_flight,list the flights from memphis to cleveland
-atis_flight,a0BB0000002Yk7vMAC,atis_flight,list the flights from denver to baltimore arriving on july first
-atis_flight,a0BB0000002Yk7wMAC,atis_flight,list the flights from dallas to baltimore arriving july first
-atis_flight,a0BB0000002Yk7xMAC,atis_flight,list the flights from pittsburgh to baltimore arriving on july first
-atis_flight,a0BB0000002Yk7yMAC,atis_flight,list the flights on canadian airlines international
-atis_quantity,a0BB0000002Yk7zMAC,atis_quantity,how many canadian airlines international flights use j31
-atis_quantity,a0BB0000002Yk80MAC,atis_quantity,how many canadian airlines international flights use aircraft 320
-atis_quantity,a0BB0000002Yk81MAC,atis_quantity,how many canadian airlines flights use aircraft dh8
-atis_flight,a0BB0000002Yk82MAC,atis_flight,show me the flights on american airlines which fly from st. petersburg to ontario canada with a stopover in st. louis
-atis_flight,a0BB0000002Yk83MAC,atis_flight,show me the flights on american airlines which go from st. petersburg to ontario california by way of st. louis
-atis_flight,a0BB0000002Yk84MAC,atis_flight,show me the flights from houston to orlando
-atis_flight,a0BB0000002Yk85MAC,atis_flight,show me the flights from orlando to houston
-atis_flight,a0BB0000002Yk86MAC,atis_flight,show me the flights from detroit to las vegas
-atis_airfare,a0BB0000002Yk87MAC,atis_airfare,show me the cheapest round trip coach fare from las vegas to detroit
-atis_airfare,a0BB0000002Yk88MAC,atis_airfare,show me the cheapest round trip coach fare on twa from las vegas to detroit
-atis_flight,a0BB0000002Yk89MAC,atis_flight,show me the delta flights which serve a snack to coach passengers
-atis_abbreviation,a0BB0000002Yk8AMAS,atis_abbreviation,what is meal code sb
-atis_flight,a0BB0000002Yk8BMAS,atis_flight,show me the delta flights from tampa to san francisco
-atis_flight,a0BB0000002Yk8CMAS,atis_flight,show me delta flight 486
-atis_flight,a0BB0000002Yk8DMAS,atis_flight,list the tower air flights on mondays
-atis_flight,a0BB0000002Yk8EMAS,atis_flight,list all tower air flights with meals
-atis_flight,a0BB0000002Yk8FMAS,atis_flight,what flights depart from baltimore
-atis_flight,a0BB0000002Yk8GMAS,atis_flight,what flights depart from baltimore and arrive at san francisco on a friday
-atis_flight,a0BB0000002Yk8HMAS,atis_flight,what flights leave from cincinnati in the morning and arrive in tampa
-atis_flight,a0BB0000002Yk8IMAS,atis_flight,which flights depart from tampa and arrive in cincinnati in the evening
-atis_flight,a0BB0000002Yk8JMAS,atis_flight,which flights depart from tampa in the early evening and arrive in cincinnati
-atis_flight,a0BB0000002Yk8KMAS,atis_flight,which flights depart from philadelphia and arrive in atlanta
-atis_flight,a0BB0000002Yk8LMAS,atis_flight,which flights depart from a atlanta and arrive in toronto
-atis_flight,a0BB0000002Yk8MMAS,atis_flight,which flights depart from toronto and arrive in washington dc
-atis_flight,a0BB0000002Yk8NMAS,atis_flight,which flights depart from new york and arrive in los angeles after 10 am
-atis_airline,a0BB0000002Yk8OMAS,atis_airline,what airlines fly between washington dc and columbus ohio
-atis_flight,a0BB0000002Yk8PMAS,atis_flight,what flights are there between washington dc and columbus ohio
-atis_flight,a0BB0000002Yk8QMAS,atis_flight,what are the flights between washington dc and columbus ohio
-atis_airfare,a0BB0000002Yk8RMAS,atis_airfare,what are the fares for all flights between washington and columbus
-atis_flight,a0BB0000002YkEQMA0,atis_flight,show me the nonstop flights from toronto to st. petersburg
-atis_flight,a0BB0000002YkERMA0,atis_flight,show me weekday flights from milwaukee to orlando one way
-atis_flight,a0BB0000002YkESMA0,atis_flight,show me weekday flights from milwaukee to orlando one way
-atis_airline,a0BB0000002YkETMA0,atis_airline,what airline is hp
-atis_flight,a0BB0000002YkEUMA0,atis_flight,list flights from chicago to san diego
-atis_flight,a0BB0000002YkEVMA0,atis_flight,list flights from chicago to san diego
-atis_flight,a0BB0000002YkEWMA0,atis_flight,list flights from kansas city to denver
-atis_flight,a0BB0000002YkEXMA0,atis_flight,list flights from denver to phoenix
-atis_flight,a0BB0000002YkEYMA0,atis_flight,list flights from phoenix to las vegas
-atis_flight,a0BB0000002YkEZMA0,atis_flight,list flights from las vegas to san diego
-atis_flight,a0BB0000002YkEaMAK,atis_flight,list flights from chicago to kansas city in the morning
-atis_flight,a0BB0000002YkEbMAK,atis_flight,list flights from houston to san jose
-atis_flight,a0BB0000002YkEcMAK,atis_flight,list flights from houston to milwaukee
-atis_flight,a0BB0000002YkEdMAK,atis_flight,list flights from milwaukee to san jose on wednesday
-atis_flight,a0BB0000002YkEeMAK,atis_flight,list flights from san jose to dallas on friday
-atis_flight,a0BB0000002YkEfMAK,atis_flight,list flights from dallas to houston
-atis_flight,a0BB0000002YkEgMAK,atis_flight,list flights from new york to la
-atis_flight,a0BB0000002YkEhMAK,atis_flight,list flights from la guardia to burbank
-atis_flight,a0BB0000002YkEiMAK,atis_flight,list flights from la to orlando
-atis_flight,a0BB0000002YkEjMAK,atis_flight,list flights from ontario california to orlando
-atis_flight,a0BB0000002YkEkMAK,atis_flight,list flights from ontario california to orlando
-atis_flight,a0BB0000002YkElMAK,atis_flight,list flights from indianapolis to memphis with fares on monday
-atis_flight,a0BB0000002YkEmMAK,atis_flight,list flights from indianapolis to memphis on monday
-atis_flight,a0BB0000002YkEnMAK,atis_flight,list flights from memphis to miami on wednesday
-atis_flight,a0BB0000002YkEoMAK,atis_flight,list flights from miami to indianapolis on sunday
-atis_flight,a0BB0000002YkEpMAK,atis_flight,list flights from charlotte on saturday afternoon
-atis_aircraft,a0BB0000002YkEqMAK,atis_aircraft,list type of aircraft for all flights from charlotte
-atis_abbreviation,a0BB0000002YkErMAK,atis_abbreviation,what class is fare code q
-atis_flight,a0BB0000002YkEsMAK,atis_flight,list flights from orlando to tacoma on saturday of fare basis code of q
-atis_airfare,a0BB0000002YkEtMAK,atis_airfare,list airfares for first class round trip from detroit to st. petersburg
-atis_airfare,a0BB0000002YkEuMAK,atis_airfare,list coach round trip airfare from detroit to st. petersburg
-atis_flight,a0BB0000002YkEvMAK,atis_flight,list flights from pittsburgh to newark on monday morning
-atis_flight,a0BB0000002YkEwMAK,atis_flight,list flights from minneapolis to pittsburgh on friday
-atis_flight,a0BB0000002YkExMAK,atis_flight,list flights before 9 am from cincinnati to tampa
-atis_flight,a0BB0000002YkEyMAK,atis_flight,list flights from cincinnati to tampa before noon
-atis_flight,a0BB0000002YkEzMAK,atis_flight,list flights from tampa to cincinnati after 3 pm
-atis_aircraft,a0BB0000002Yk8SMAS,atis_aircraft,at the charlotte airport how many different types of aircraft are there for us air
-atis_flight,a0BB0000002Yk8TMAS,atis_flight,list all us air flights arriving in charlotte on saturday at 1 pm
-atis_airfare,a0BB0000002Yk8UMAS,atis_airfare,what is the first class round trip airfare from india indianapolis to memphis
-atis_flight,a0BB0000002Yk8kMAC,atis_flight,list flights from atlanta to toronto friday afternoon
-atis_flight,a0BB0000002Yk8VMAS,atis_flight,list all flights from memphis to miami
-atis_flight,a0BB0000002Yk8WMAS,atis_flight,list all flights from cleveland to kansas city on monday
-atis_flight,a0BB0000002Yk8XMAS,atis_flight,list all flights from kansas city to cleveland
-atis_flight,a0BB0000002Yk8lMAC,atis_flight,list flights from toronto to washington dc saturday am
-atis_flight,a0BB0000002Yk8YMAS,atis_flight,list all flights from cleveland to nashville
-atis_flight,a0BB0000002Yk8ZMAS,atis_flight,list all flights from nashville to cleveland on sunday
-atis_airline,a0BB0000002Yk8aMAC,atis_airline,what airlines are departing from baltimore
-atis_flight,a0BB0000002Yk8mMAC,atis_flight,list flights from washington dc to philadelphia saturday pm
-atis_airline,a0BB0000002Yk8bMAC,atis_airline,which airlines fly from baltimore to san francisco
-atis_flight,a0BB0000002Yk8cMAC,atis_flight,which flights are leaving from kansas city to atlanta early monday morning
-atis_flight,a0BB0000002Yk8dMAC,atis_flight,which flights are leaving atlanta and arriving in st. louis close to 230 pm on tuesday
-atis_flight,a0BB0000002Yk8nMAC,atis_flight,list direct flights from new york city to los angeles after 10 am
-atis_flight,a0BB0000002Yk8eMAC,atis_flight,please list flights from st. louis to st. paul which depart after 10 am thursday morning
-atis_flight,a0BB0000002Yk8fMAC,atis_flight,list flights from st. paul to kansas city friday in the evening with a meal included
-atis_flight,a0BB0000002Yk8gMAC,atis_flight,list early morning flights from cincinnati to tampa
-atis_flight,a0BB0000002Yk8hMAC,atis_flight,list early evening flights from tampa to cincinnati
-atis_flight,a0BB0000002Yk8iMAC,atis_flight,list evening flights from tampa to cincinnati
-atis_flight,a0BB0000002Yk8jMAC,atis_flight,list flights from philadelphia to atlanta friday am
-atis_abbreviation,a0BB0000002Yk8oMAC,atis_abbreviation,what is fare code m
-atis_flight,a0BB0000002Yk8pMAC,atis_flight,list american airlines flights from houston to milwaukee departing friday pm
-atis_flight,a0BB0000002Yk8qMAC,atis_flight,list flights from houston to milwaukee friday pm
-atis_flight,a0BB0000002Yk8rMAC,atis_flight,list american airlines flights from milwaukee to san jose wednesday
-atis_flight,a0BB0000002Yk8sMAC,atis_flight,list american airlines flights from san jose to dallas friday afternoon
-atis_flight,a0BB0000002Yk8tMAC,atis_flight,list flights from dallas to houston arriving sunday afternoon
-atis_airline,a0BB0000002Yk8uMAC,atis_airline,list airlines flying from seattle to salt lake city
-atis_flight,a0BB0000002Yk8vMAC,atis_flight,list flights from seattle to salt lake city on delta l10
-atis_flight,a0BB0000002Yk8wMAC,atis_flight,list flights from seattle to salt lake city on delta be1
-atis_flight,a0BB0000002Yk8xMAC,atis_flight,list flights from boston to pittsburgh daily
-atis_flight,a0BB0000002Yk8yMAC,atis_flight,list flights from pittsburgh to newark daily
-atis_flight,a0BB0000002Yk8zMAC,atis_flight,list flights from newark to boston daily
-atis_flight,a0BB0000002Yk90MAC,atis_flight,list us air flights leaving saturday from charlotte airport at 1 pm
-atis_flight,a0BB0000002Yk91MAC,atis_flight,list us air flights leaving saturday from charlotte airport around 1 pm
-atis_airfare,a0BB0000002Yk92MAC,atis_airfare,list first class airfare round trip from indianapolis to memphis
-atis_airline,a0BB0000002YkF0MAK,atis_airline,list airlines that fly from seattle to salt lake city
-atis_flight,a0BB0000002YkF1MAK,atis_flight,list delta flights from seattle to salt lake city
-atis_flight,a0BB0000002YkF2MAK,atis_flight,list delta flights from seattle to salt lake city with aircraft type
-atis_ground_service,a0BB0000002YkF3MAK,atis_ground_service,what ground transportation is there in baltimore
-atis_ground_service,a0BB0000002YkF4MAK,atis_ground_service,list ground transportation in baltimore
-atis_flight,a0BB0000002YkF5MAK,atis_flight,list flights from baltimore to san francisco on friday
-atis_flight,a0BB0000002YkF6MAK,atis_flight,give me the flights from los angeles to pittsburgh on tuesday
-atis_flight,a0BB0000002YkF7MAK,atis_flight,give me the flights from pittsburgh to los angeles thursday evening
-atis_flight,a0BB0000002YkF8MAK,atis_flight,give me the round trip flights from cleveland to miami next wednesday
-atis_airfare,a0BB0000002YkF9MAK,atis_airfare,give me the fares for round trip flights from cleveland to miami next wednesday
-atis_flight,a0BB0000002YkFAMA0,atis_flight,give me the flights and fares for a trip to cleveland from miami on wednesday
-atis_airfare,a0BB0000002YkFBMA0,atis_airfare,give me the fares from miami to cleveland next sunday
-atis_flight,a0BB0000002YkFCMA0,atis_flight,give me the flights from milwaukee to phoenix on saturday or sunday on american airlines
-atis_flight,a0BB0000002YkFDMA0,atis_flight,give me the flights from phoenix to milwaukee on wednesday evening
-atis_flight,a0BB0000002YkFEMA0,atis_flight,give me the flights from phoenix to milwaukee on wednesday on american airlines
-atis_flight,a0BB0000002YkFFMA0,atis_flight,give me the flights from phoenix to milwaukee on american airlines
-atis_flight,a0BB0000002YkFGMA0,atis_flight,give me the flights from phoenix to milwaukee
-atis_flight,a0BB0000002YkFHMA0,atis_flight,give me the meal flights departing early saturday morning from chicago to seattle nonstop
-atis_flight,a0BB0000002YkFIMA0,atis_flight,give me the flights from chicago to seattle saturday morning that have meals
-atis_flight,a0BB0000002YkFJMA0,atis_flight,give me flights from seattle to chicago that have meals on continental
-atis_flight,a0BB0000002YkFKMA0,atis_flight,give me the flights from seattle to chicago that have meals on continental saturday morning
-atis_flight,a0BB0000002YkFLMA0,atis_flight,give me the flights from chicago to seattle on continental that have meals early saturday morning
-atis_flight,a0BB0000002YkFMMA0,atis_flight,give me a combination of continental flights from chicago to seattle that have meals early saturday morning
-atis_flight,a0BB0000002YkFNMA0,atis_flight,give me the saturday morning flights with meals from chicago to minneapolis
-atis_flight,a0BB0000002YkFOMA0,atis_flight,give me the saturday morning flights on continental that have meals from chicago to minneapolis
-atis_flight,a0BB0000002YkFPMA0,atis_flight,give me the saturday morning flights from chicago to st. paul on continental that have meals
-atis_flight,a0BB0000002YkFQMA0,atis_flight,give me the flights from new york to las vegas nonstop
-atis_flight,a0BB0000002YkFRMA0,atis_flight,give me the flights from memphis to las vegas nonstop
-atis_flight,a0BB0000002YkFSMA0,atis_flight,give me the cheapest round trip flights from indianapolis to orlando around december twenty fifth
-atis_flight,a0BB0000002YkFTMA0,atis_flight,i need a friday flight from newark to tampa
-atis_flight,a0BB0000002YkFUMA0,atis_flight,i need a sunday flight from tampa to charlotte
-atis_flight,a0BB0000002YkFVMA0,atis_flight,give me a flight from charlotte to baltimore on tuesday morning
-atis_flight,a0BB0000002YkFWMA0,atis_flight,can i have a morning flight from baltimore to newark please
-atis_airfare,a0BB0000002YkFXMA0,atis_airfare,cheapest round trip fare from or indianapolis to orlando on december twenty fifth
-atis_airfare,a0BB0000002YkFYMA0,atis_airfare,cheapest one way fare from indianapolis to orlando on december twenty seventh
-atis_flight,a0BB0000002Yk94MAC,atis_flight,list flights from memphis to miami wednesday evening
-atis_abbreviation,a0BB0000002Yk93MAC,atis_abbreviation,what is fare code f
-atis_flight,a0BB0000002Yk95MAC,atis_flight,list flights from miami to indianapolis sunday
-atis_flight,a0BB0000002Yk96MAC,atis_flight,list flights from ontario california to orlando florida
-atis_flight,a0BB0000002Yk97MAC,atis_flight,list flights from ontario california to salt lake city utah
-atis_flight,a0BB0000002Yk98MAC,atis_flight,list flights from ontario california to salt lake city utah monday
-atis_flight,a0BB0000002Yk99MAC,atis_flight,list flights from salt lake city utah to phoenix arizona monday
-atis_flight,a0BB0000002Yk9AMAS,atis_flight,list flights from salt lake city to phoenix arizona tuesday
-atis_flight,a0BB0000002Yk9BMAS,atis_flight,list flights from phoenix arizona to ontario california wednesday
-atis_airline,a0BB0000002Yk9CMAS,atis_airline,what airlines fly from baltimore to san francisco
-atis_airfare,a0BB0000002Yk9DMAS,atis_airfare,what is the fare for a first class round trip ticket from detroit to st. petersburg
-atis_airfare,a0BB0000002Yk9EMAS,atis_airfare,what is the airfare for a round trip first class ticket from detroit to st. petersburg
-atis_flight,a0BB0000002Yk9FMAS,atis_flight,kansas city to atlanta monday morning flights
-atis_flight,a0BB0000002Yk9GMAS,atis_flight,monday morning flights from atlanta to kansas city
-atis_flight,a0BB0000002Yk9HMAS,atis_flight,kansas city to atlanta monday morning flights
-atis_flight,a0BB0000002Yk9IMAS,atis_flight,atlanta to st. louis tuesday before 230 pm flights
-atis_flight,a0BB0000002Yk9JMAS,atis_flight,st. louis to st. paul thursday after 10 am
-atis_flight,a0BB0000002Yk9KMAS,atis_flight,st. paul to kansas city friday night
-atis_flight,a0BB0000002Yk9LMAS,atis_flight,cleveland to kansas city arrive monday before 3 pm
-atis_flight,a0BB0000002Yk9MMAS,atis_flight,kansas city to cleveland flight arrive wednesday before 5 pm
-atis_flight,a0BB0000002Yk9NMAS,atis_flight,cleveland to nashville flight friday morning
-atis_flight,a0BB0000002Yk9OMAS,atis_flight,nashville to cleveland sunday before 9
-atis_flight,a0BB0000002Yk9PMAS,atis_flight,first class flights pittsburgh to newark monday morning
-atis_flight,a0BB0000002Yk9QMAS,atis_flight,flights newark to los angeles wednesday morning
-atis_flight,a0BB0000002Yk9RMAS,atis_flight,los angeles to minneapolis thursday afternoon
-atis_flight,a0BB0000002Yk9SMAS,atis_flight,minneapolis to pittsburgh flight
-atis_flight,a0BB0000002Yk9TMAS,atis_flight,minneapolis to pittsburgh first class flight
-atis_flight,a0BB0000002Yk9UMAS,atis_flight,i would like flights leaving from milwaukee to orlando
-atis_abbreviation,a0BB0000002Yk9VMAS,atis_abbreviation,what does hp stand for
-atis_flight,a0BB0000002YkFZMA0,atis_flight,saturday flight on american airlines from milwaukee to phoenix
-atis_airfare,a0BB0000002YkFaMAK,atis_airfare,is there a fare from pittsburgh to cleveland under 200 dollars
-atis_airfare,a0BB0000002YkFbMAK,atis_airfare,how much is coach flight from pittsburgh to atlanta
-atis_flight,a0BB0000002YkFcMAK,atis_flight,newark to tampa on friday
-atis_flight,a0BB0000002YkFdMAK,atis_flight,tampa to charlotte sunday morning
-atis_flight,a0BB0000002YkFeMAK,atis_flight,charlotte to baltimore on tuesday
-atis_flight,a0BB0000002YkFfMAK,atis_flight,baltimore to newark wednesday morning
-atis_flight,a0BB0000002YkFgMAK,atis_flight,dallas to houston after 1201 am
-atis_flight,a0BB0000002YkFhMAK,atis_flight,houston to dallas before midnight
-atis_flight,a0BB0000002YkFiMAK,atis_flight,indianapolis to orlando december twenty seventh
-atis_airfare,a0BB0000002YkFjMAK,atis_airfare,cheapest fare from indianapolis to orlando on the twenty seventh of december
-atis_airfare,a0BB0000002YkFkMAK,atis_airfare,cheapest fare round trip from indianapolis to orlando on december twenty seventh
-atis_flight,a0BB0000002YkFlMAK,atis_flight,cleveland to miami on wednesday arriving before 4 pm
-atis_flight,a0BB0000002YkFmMAK,atis_flight,miami to cleveland sunday afternoon
-atis_flight,a0BB0000002YkFnMAK,atis_flight,new york city to las vegas and memphis to las vegas on sunday
-atis_flight,a0BB0000002YkFoMAK,atis_flight,new york city to las vegas and memphis to las vegas on sunday
-atis_flight,a0BB0000002YkFpMAK,atis_flight,new york to las vegas sunday afternoon
-atis_flight,a0BB0000002YkFqMAK,atis_flight,memphis to las vegas sunday afternoon
-atis_flight,a0BB0000002YkFrMAK,atis_flight,new york to las vegas on sunday afternoon
-atis_flight,a0BB0000002YkFsMAK,atis_flight,chicago to seattle saturday morning
-atis_flight,a0BB0000002YkFtMAK,atis_flight,chicago to las vegas saturday morning
-atis_flight,a0BB0000002YkFuMAK,atis_flight,los angeles to pittsburgh afternoon tuesday
-atis_flight,a0BB0000002YkFvMAK,atis_flight,los angeles to pittsburgh afternoon on monday
-atis_flight,a0BB0000002YkFwMAK,atis_flight,pittsburgh to los angeles thursday evening
-atis_flight,a0BB0000002YkHJMA0,atis_flight,what are the flights from memphis to las vegas
-atis_flight,a0BB0000002YkHKMA0,atis_flight,what are the flights from las vegas to ontario
-atis_flight,a0BB0000002YkHLMA0,atis_flight,what are the flights from ontario to memphis
-atis_ground_service,a0BB0000002YkHMMA0,atis_ground_service,what type of ground transportation is there at the las vegas airport
-atis_ground_service,a0BB0000002YkHNMA0,atis_ground_service,is there taxi service at the ontario airport
-atis_flight,a0BB0000002YkHOMA0,atis_flight,what are the flights from tampa to milwaukee
-atis_flight,a0BB0000002YkHPMA0,atis_flight,what are the flights from milwaukee to seattle
-atis_flight,a0BB0000002YkHQMA0,atis_flight,what are the flights from la guardia to san jose on united
-atis_flight,a0BB0000002YkHRMA0,atis_flight,what are the flights on mondays that travel from charlotte north carolina to phoenix arizona
-atis_flight,a0BB0000002YkHSMA0,atis_flight,what are the flights from phoenix arizona to st. paul minnesota on tuesday
-atis_flight,a0BB0000002YkHTMA0,atis_flight,what are the flights on thursday leaving from st. paul minnesota to st. louis
-atis_flight,a0BB0000002YkHUMA0,atis_flight,what are the flights from st. louis to charlotte north carolina leaving on friday
-atis_flight,a0BB0000002YkHVMA0,atis_flight,what are the flights from boston to orlando that stop in new york
-atis_flight,a0BB0000002YkHWMA0,atis_flight,i need a morning flight from burbank to milwaukee on next monday
-atis_flight,a0BB0000002Yk9WMAS,atis_flight,i would like flights from ontario to tacoma
-atis_flight,a0BB0000002Yk9XMAS,atis_flight,i would like flights from minneapolis to san diego
-atis_flight,a0BB0000002Yk9YMAS,atis_flight,i would like flights from salt lake city to cincinnati
-atis_flight,a0BB0000002Yk9ZMAS,atis_flight,i would like to see flights from cincinnati to salt lake city
-atis_flight,a0BB0000002Yk9aMAC,atis_flight,i'd like flights from new york to miami
-atis_flight,a0BB0000002Yk9bMAC,atis_flight,i would like flights from miami to new york
-atis_flight,a0BB0000002Yk9cMAC,atis_flight,i would like a flight leaving san francisco for san diego
-atis_flight,a0BB0000002Yk9dMAC,atis_flight,i would like flights from san diego to las vegas
-atis_flight,a0BB0000002Yk9eMAC,atis_flight,i would like a flight from san diego to las vegas
-atis_flight,a0BB0000002Yk9fMAC,atis_flight,i would like flights from las vegas to san francisco
-atis_abbreviation,a0BB0000002Yk9gMAC,atis_abbreviation,what does fare code bn mean
-atis_airline,a0BB0000002Yk9hMAC,atis_airline,i would like to have the airline that flies toronto detroit and st. louis
-atis_flight,a0BB0000002Yk9iMAC,atis_flight,i would like a flight from toronto to detroit
-atis_flight,a0BB0000002YkC0MAK,atis_flight,list flights from washington dc to toronto
-atis_flight,a0BB0000002YkC1MAK,atis_flight,list flights from toronto to washington dc
-atis_flight,a0BB0000002YkC2MAK,atis_flight,list flights from oakland to salt lake city
-atis_flight,a0BB0000002YkC3MAK,atis_flight,what flights go from dallas to phoenix
-atis_flight,a0BB0000002YkC4MAK,atis_flight,what flights go from phoenix to salt lake city
-atis_flight,a0BB0000002YkC5MAK,atis_flight,i need an early flight from milwaukee to denver
-atis_ground_service,a0BB0000002YkC6MAK,atis_ground_service,what types of ground transportation are available in denver
-atis_flight,a0BB0000002YkC7MAK,atis_flight,what flights go from denver to st. louis on tuesday morning
-atis_ground_service,a0BB0000002YkC8MAK,atis_ground_service,is ground transportation available in st. louis
-atis_flight,a0BB0000002YkC9MAK,atis_flight,i need to fly from st. louis to milwaukee on wednesday afternoon
-atis_flight,a0BB0000002YkCAMA0,atis_flight,flights from washington to seattle
-atis_flight,a0BB0000002YkCBMA0,atis_flight,flights from atlanta to seattle
-atis_flight,a0BB0000002YkCCMA0,atis_flight,flights from san diego to seattle
-atis_flight,a0BB0000002YkCDMA0,atis_flight,i would like flight information from phoenix to denver
-atis_flight,a0BB0000002YkCEMA0,atis_flight,could i have flight information on flights from salt lake city to phoenix please
-atis_flight,a0BB0000002YkCFMA0,atis_flight,could i have flight information on flights from pittsburgh to phoenix please
-atis_flight,a0BB0000002YkHXMA0,atis_flight,how about a flight from milwaukee to st. louis that leaves monday night
-atis_flight,a0BB0000002YkHYMA0,atis_flight,and a flight from st. louis to burbank that leaves tuesday afternoon
-atis_flight,a0BB0000002YkHZMA0,atis_flight,how about a flight leaving tuesday night from st. louis to burbank
-atis_flight,a0BB0000002YkHaMAK,atis_flight,i need a flight from salt lake to newark airport that arrives on saturday before 6 pm
-atis_flight,a0BB0000002YkHbMAK,atis_flight,i'd like a flight from cincinnati to newark airport that arrives on saturday before 6 pm
-atis_flight,a0BB0000002YkHcMAK,atis_flight,i need a flight on american airlines from miami to chicago that arrives around 5 pm
-atis_flight,a0BB0000002YkHdMAK,atis_flight,i need a flight from memphis to tacoma that goes through los angeles
-atis_flight,a0BB0000002YkHeMAK,atis_flight,what are the flights between cincinnati and san jose california which leave after 6 pm
-atis_flight,a0BB0000002YkHfMAK,atis_flight,what are the nonstop flights between san jose and houston texas
-atis_flight,a0BB0000002YkHgMAK,atis_flight,what are the nonstop flights between houston and memphis
-atis_flight,a0BB0000002YkHhMAK,atis_flight,what are the flights between memphis and cincinnati on wednesday
-atis_flight,a0BB0000002YkHiMAK,atis_flight,what are the american flights from newark to nashville
-atis_flight,a0BB0000002YkHjMAK,atis_flight,the flights from ontario to westchester that stop in chicago
-atis_flight,a0BB0000002YkHkMAK,atis_flight,please list the flights from los angeles to charlotte
-atis_flight,a0BB0000002YkHlMAK,atis_flight,please list the flights from charlotte to newark
-atis_flight,a0BB0000002YkHmMAK,atis_flight,please list the flights from newark to los angeles
-atis_flight,a0BB0000002YkHnMAK,atis_flight,please list the flights from cincinnati to burbank on american airlines
-atis_flight,a0BB0000002YkHoMAK,atis_flight,please give me the flights from kansas city to chicago on june sixteenth
-atis_flight,a0BB0000002YkHpMAK,atis_flight,please give me the flights from chicago to kansas city on june seventeenth
-atis_flight,a0BB0000002YkHqMAK,atis_flight,please list all the flights from kansas city to chicago on june sixteenth
-atis_flight,a0BB0000002YkHrMAK,atis_flight,please list all the flights from chicago to kansas city on june seventeenth
-atis_flight,a0BB0000002YkHsMAK,atis_flight,i'd like to travel from burbank to milwaukee
-atis_flight,a0BB0000002YkHtMAK,atis_flight,can you find me a flight from salt lake city to new york city next saturday before arriving before 6 pm
-atis_flight,a0BB0000002YkHuMAK,atis_flight,can you find me another flight from cincinnati to new york on saturday before 6 pm
-atis_flight,a0BB0000002YkHvMAK,atis_flight,can you list all of the delta flights from salt lake city to new york next saturday arriving before 6 pm
-atis_flight,a0BB0000002YkHwMAK,atis_flight,i'd like to fly from miami to chicago on on american airlines arriving around 5 pm
-atis_flight,a0BB0000002YkHxMAK,atis_flight,i'd like to travel from kansas city to chicago next wednesday
-atis_flight,a0BB0000002YkHyMAK,atis_flight,i'd like a round trip flight from kansas city to chicago on wednesday may twenty sixth arriving at 7 pm
-atis_flight,a0BB0000002YkHzMAK,atis_flight,yes i'd like to find a flight from memphis to tacoma stopping in los angeles
-atis_flight,a0BB0000002YkI0MAK,atis_flight,find flight from san diego to phoenix on monday am
-atis_flight,a0BB0000002YkI1MAK,atis_flight,find flight from phoenix to detroit on monday
-atis_flight,a0BB0000002YkI2MAK,atis_flight,find flight from detroit to san diego on tuesday
-atis_flight,a0BB0000002YkI3MAK,atis_flight,find flight from cincinnati to san jose on monday
-atis_flight,a0BB0000002YkI4MAK,atis_flight,find flight from san jose to houston on wednesday
-atis_flight,a0BB0000002YkI5MAK,atis_flight,find flight from houston to memphis on friday
-atis_flight,a0BB0000002Yk5VMAS,atis_flight,i would like to find a flight from charlotte to las vegas that makes a stop in st. louis
-atis_airfare,a0BB0000002Yk5WMAS,atis_airfare,on april first i need a ticket from tacoma to san jose departing before 7 am
-atis_flight,a0BB0000002Yk5XMAS,atis_flight,on april first i need a flight going from phoenix to san diego
-atis_flight,a0BB0000002Yk5YMAS,atis_flight,i would like a flight traveling one way from phoenix to san diego on april first
-atis_flight,a0BB0000002Yk5ZMAS,atis_flight,i would like a flight from orlando to salt lake city for april first on delta airlines
-atis_flight,a0BB0000002Yk5aMAC,atis_flight,i need a flight from toronto to newark one way leaving wednesday evening or thursday morning
-atis_flight,a0BB0000002Yk5bMAC,atis_flight,monday morning i would like to fly from columbus to indianapolis
-atis_flight,a0BB0000002Yk5cMAC,atis_flight,on wednesday april sixth i would like to fly from long beach to columbus after 3 pm
-atis_flight,a0BB0000002Yk9kMAC,atis_flight,i would like a flight from toronto to st. louis
-atis_flight,a0BB0000002Yk9lMAC,atis_flight,i would like flights from san francisco to long beach
-atis_flight,a0BB0000002Yk9jMAC,atis_flight,i would like a flight from detroit to st. louis
-atis_flight,a0BB0000002Yk9mMAC,atis_flight,i would like flights leaving san francisco to san diego
-atis_flight,a0BB0000002Yk9nMAC,atis_flight,i would like a flight from san francisco to st. petersburg
-atis_flight,a0BB0000002Yk9oMAC,atis_flight,show me a one way flight from milwaukee to orlando leaving wednesday afternoon after 6 pm
-atis_flight,a0BB0000002Yk9pMAC,atis_flight,show me one way flights from milwaukee to orlando on wednesday
-atis_flight,a0BB0000002Yk9qMAC,atis_flight,show me flights from columbus to chicago first class that leave before 10 am
-atis_flight,a0BB0000002Yk9rMAC,atis_flight,show me the cheapest round trip between st. petersburg and detroit that arrives before 7 pm
-atis_flight,a0BB0000002Yk9sMAC,atis_flight,show me nonstop flights from kansas city to phoenix
-atis_airline,a0BB0000002Yk9tMAC,atis_airline,what is airline wn
-atis_flight,a0BB0000002Yk9uMAC,atis_flight,show me the cheapest first class round trip from new york to miami
-atis_flight,a0BB0000002Yk9vMAC,atis_flight,now show me all the round trips from new york to miami
-atis_flight,a0BB0000002Yk9wMAC,atis_flight,show me the cheapest one way flight from san francisco to houston
-atis_flight,a0BB0000002Yk9xMAC,atis_flight,now show me the cheapest one way flight from houston to boston
-atis_airfare,a0BB0000002Yk9yMAC,atis_airfare,show me the cheapest round trip fares from houston to boston
-atis_airfare,a0BB0000002Yk9zMAC,atis_airfare,show me the cheapest round trip fares from san francisco to houston
-atis_airfare,a0BB0000002YkA0MAK,atis_airfare,show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994
-atis_airfare,a0BB0000002YkA1MAK,atis_airfare,show me the cheapest one way fare from san francisco to houston on february twenty eighth 1994
-atis_ground_service,a0BB0000002YkA2MAK,atis_ground_service,now show me ground transportation in houston on monday afternoon
-atis_flight,a0BB0000002YkA3MAK,atis_flight,now show me one way flights from houston to boston
-atis_ground_service,a0BB0000002YkA4MAK,atis_ground_service,and now show me ground transportation that i could get in boston late night
-atis_airline,a0BB0000002YkA5MAK,atis_airline,show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto
-atis_airfare,a0BB0000002YkA6MAK,atis_airfare,show me round trip fares from toronto to detroit on delta northwest us air and united airlines
-atis_flight,a0BB0000002YkA7MAK,atis_flight,show me flights between detroit and st. louis on delta northwest us air and united airlines
-atis_flight,a0BB0000002YkA8MAK,atis_flight,show me flights from montreal to orlando and long beach
-atis_flight,a0BB0000002YkA9MAK,atis_flight,show me flights from montreal to orlando
-atis_flight,a0BB0000002YkCHMA0,atis_flight,i need information on flights from washington to boston that leave on a saturday
-atis_flight,a0BB0000002YkCGMA0,atis_flight,i would like information on flights leaving from washington dc to denver
-atis_flight,a0BB0000002YkCIMA0,atis_flight,i need the flights from washington to montreal on a saturday
-atis_airfare,a0BB0000002YkCJMA0,atis_airfare,i need the fares on flights from washington to toronto on a saturday
-atis_flight,a0BB0000002YkCKMA0,atis_flight,i want to go from boston to washington on a saturday
-atis_flight,a0BB0000002YkCLMA0,atis_flight,i need a flight from cleveland to dallas that leaves before noon see if too much information
-atis_airfare,a0BB0000002YkCMMA0,atis_airfare,get fares from washington to boston
-atis_airfare,a0BB0000002YkCNMA0,atis_airfare,get saturday fares from washington to boston
-atis_airfare,a0BB0000002YkCOMA0,atis_airfare,get fares from washington to montreal
-atis_airfare,a0BB0000002YkCPMA0,atis_airfare,get saturday fares from washington to montreal
-atis_airfare,a0BB0000002YkCQMA0,atis_airfare,get saturday fares from washington to toronto
-atis_airfare,a0BB0000002YkCRMA0,atis_airfare,get the saturday fare from washington to toronto
-atis_flight,a0BB0000002YkCSMA0,atis_flight,list saturday flights from washington to boston
-atis_flight,a0BB0000002YkCTMA0,atis_flight,list saturday flights from boston to washington
-atis_flight,a0BB0000002YkCUMA0,atis_flight,get flights from milwaukee to dtw
-atis_flight,a0BB0000002YkCVMA0,atis_flight,list flights from milwaukee to detroit
-atis_flight,a0BB0000002YkCWMA0,atis_flight,get flights from detroit to toronto
-atis_flight,a0BB0000002YkCXMA0,atis_flight,get flights from toronto to milwaukee
-atis_flight,a0BB0000002YkCYMA0,atis_flight,get last flight from oakland to salt lake city on wednesday or first flight from oakland to salt lake city on thursday
-atis_flight,a0BB0000002YkCZMA0,atis_flight,get first flight from oakland to salt lake city on thursday
-atis_flight,a0BB0000002YkCaMAK,atis_flight,get last flight from oakland to salt lake city on wednesday
-atis_flight,a0BB0000002YkCbMAK,atis_flight,list last wednesday flight from oakland to salt lake city
-atis_flight,a0BB0000002YkCcMAK,atis_flight,get flight from toronto to san diego stopping at dtw
-atis_flight,a0BB0000002YkCdMAK,atis_flight,get flights between st. petersburg and charlotte
-atis_flight,a0BB0000002YkCeMAK,atis_flight,i need a flight from milwaukee to indianapolis leaving monday before 9 am
-atis_flight,a0BB0000002YkCfMAK,atis_flight,i need a flight departing from milwaukee to indianapolis leaving monday before 8 am
-atis_ground_service,a0BB0000002YkCgMAK,atis_ground_service,is there ground transportation available at the indianapolis airport
-atis_flight,a0BB0000002YkChMAK,atis_flight,i need flight information for a flight departing from indianapolis to cleveland departing tuesday at noon
-atis_flight,a0BB0000002YkCiMAK,atis_flight,i need flight information for a flight departing from cleveland to milwaukee wednesday after 6 pm
-atis_flight,a0BB0000002YkCjMAK,atis_flight,i need flight information for flights departing from cleveland going back to milwaukee wednesday after 5 pm
-atis_flight,a0BB0000002YkCkMAK,atis_flight,i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm
-atis_flight,a0BB0000002YkClMAK,atis_flight,i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm
-atis_flight,a0BB0000002YkFyMAK,atis_flight,phoenix to milwaukee on sunday
-atis_flight,a0BB0000002YkFzMAK,atis_flight,phoenix to milwaukee on wednesday
-atis_flight,a0BB0000002YkFxMAK,atis_flight,milwaukee to phoenix on saturday
-atis_flight,a0BB0000002YkG0MAK,atis_flight,a flight from baltimore to san francisco arriving between 5 and 8 pm
-atis_flight,a0BB0000002YkG1MAK,atis_quantity,how many northwest flights leave st. paul
-atis_flight,a0BB0000002YkG2MAK,atis_quantity,how many northwest flights leave washington dc
-atis_flight,a0BB0000002YkG3MAK,atis_quantity,how many flights does northwest have leaving dulles
-atis_flight,a0BB0000002YkG4MAK,atis_flight,i would like a connecting flight from dallas to san francisco leaving after 4 o'clock
-atis_flight,a0BB0000002YkG5MAK,atis_flight,please list all the flights from dallas to san francisco
-atis_flight,a0BB0000002YkG6MAK,atis_flight,tell me again the morning flights on american airlines from philadelphia to dallas
-atis_flight,a0BB0000002YkG7MAK,atis_flight,tell me the flights that leave philadelphia and go to dallas
-atis_abbreviation,a0BB0000002YkG8MAK,atis_abbreviation,what is a d9s
-atis_aircraft,a0BB0000002YkG9MAK,atis_aircraft,what type of plane is a d9s
-atis_abbreviation,a0BB0000002YkGAMA0,atis_abbreviation,what is a d9s
-atis_flight,a0BB0000002YkGBMA0,atis_flight,show me the first class and coach flights between jfk and orlando
-atis_flight,a0BB0000002YkGCMA0,atis_flight,show me the first class and coach flights from kennedy airport to miami
-atis_flight,a0BB0000002YkGDMA0,atis_flight,show me the first class and coach flights from jfk to miami
-atis_flight,a0BB0000002YkGEMA0,atis_flight,show delta airlines flights from jfk to miami
-atis_flight,a0BB0000002YkGFMA0,atis_flight,show delta airlines from boston to salt lake
-atis_flight,a0BB0000002YkGGMA0,atis_flight,show delta airlines flights from boston to salt lake
-atis_flight,a0BB0000002YkI7MAK,atis_flight,find american flight from newark to nashville around 630 pm
-atis_flight,a0BB0000002YkI8MAK,atis_flight,please find a flight round trip from los angeles to tacoma washington with a stopover in san francisco not exceeding the price of 300 dollars for june tenth 1993
-atis_flight,a0BB0000002YkI6MAK,atis_flight,find flight from memphis to cincinnati on sunday
-atis_flight,a0BB0000002YkI9MAK,atis_flight,are there any flights on june tenth from burbank to tacoma
-atis_flight,a0BB0000002YkIAMA0,atis_flight,please find a flight from ontario to westchester that makes a stop in chicago on may seventeenth one way with dinner
-atis_flight,a0BB0000002YkIBMA0,atis_flight,like to book a flight from burbank to milwaukee
-atis_flight,a0BB0000002YkICMA0,atis_flight,show me all the flights from burbank to milwaukee
-atis_flight,a0BB0000002YkCmMAK,atis_flight,i need a flight from denver to salt lake city on monday
-atis_ground_service,a0BB0000002YkCnMAK,atis_ground_service,is there ground transportation available at the denver airport
-atis_ground_service,a0BB0000002YkCoMAK,atis_ground_service,is there ground transportation available at the salt lake city airport
-atis_flight,a0BB0000002YkCpMAK,atis_flight,i need a flight from salt lake city to phoenix departing wednesday after 5 pm
-atis_ground_service,a0BB0000002YkCqMAK,atis_ground_service,is there ground transportation available at the phoenix airport
-atis_flight,a0BB0000002YkCrMAK,atis_flight,i need a flight from oakland to salt lake city on wednesday departing after 6 pm
-atis_flight,a0BB0000002YkCsMAK,atis_flight,list flights from las vegas to phoenix
-atis_flight,a0BB0000002YkCtMAK,atis_flight,list wednesday night flights from oakland to salt lake city
-atis_flight,a0BB0000002YkCuMAK,atis_flight,list flights from oakland to salt lake city before 6 am thursday morning
-atis_airline,a0BB0000002YkCvMAK,atis_airline,which airlines fly between toronto and san diego
-atis_flight,a0BB0000002YkCwMAK,atis_flight,please list afternoon flights between st. petersburg and charlotte
-atis_abbreviation,a0BB0000002YkCxMAK,atis_abbreviation,what is tpa
-atis_flight,a0BB0000002YkCyMAK,atis_flight,what are the flights from cleveland to dallas
-atis_flight,a0BB0000002YkCzMAK,atis_flight,please list only the flights from cleveland to dallas that leave before noon
-atis_aircraft,a0BB0000002YkD0MAK,atis_aircraft,what type of aircraft are flying from cleveland to dallas before noon
-atis_flight,a0BB0000002YkD1MAK,atis_flight,i need information on flights from indianapolis to seattle
-atis_flight,a0BB0000002YkD2MAK,atis_flight,i need a flight from memphis to seattle
-atis_airfare,a0BB0000002YkD3MAK,atis_airfare,i need a ticket from nashville to seattle
-atis_airfare,a0BB0000002YkD4MAK,atis_airfare,i need a ticket from nashville tennessee to seattle
-atis_airfare,a0BB0000002YkGIMA0,atis_airfare,what are the fares for flights between boston and washington dc
-atis_airfare,a0BB0000002YkGJMA0,atis_airfare,what is the least expensive fare from boston to salt lake city
-atis_flight,a0BB0000002YkGHMA0,atis_flight,show delta airlines flights from boston to salt lake city
-atis_airfare,a0BB0000002YkGKMA0,atis_airfare,what are the lowest fares from washington dc to salt lake city
-atis_airfare,a0BB0000002YkGLMA0,atis_airfare,what is the lowest fare from bwi to salt lake city
-atis_airfare,a0BB0000002YkGMMA0,atis_airfare,show me the cost of a first class ticket from detroit to las vegas and back
-atis_flight,a0BB0000002YkGNMA0,atis_flight,what is the earliest arriving flight from boston to washington dc
-atis_flight,a0BB0000002YkGOMA0,atis_flight,what is the earliest arriving flight between boston and washington dc
-atis_flight,a0BB0000002YkGPMA0,atis_flight,what's the earliest arriving flight between boston and washington dc
-atis_flight,a0BB0000002YkGQMA0,atis_flight,what is the earliest arriving flight from houston to orlando
-atis_flight,a0BB0000002YkGRMA0,atis_flight,what is the earliest arriving flight from houston to orlando
-atis_flight,a0BB0000002YkGSMA0,atis_flight,show me the flights between houston and orlando
-atis_flight,a0BB0000002YkGTMA0,atis_flight,show me the flights between houston and orlando
-atis_flight,a0BB0000002YkGUMA0,atis_flight,show me the flights from houston to orlando
-atis_flight,a0BB0000002YkGVMA0,atis_flight,list all flights leaving denver between 8 pm and 9 pm
-atis_airline,a0BB0000002YkGWMA0,atis_airline,what airlines serve denver
-atis_airline,a0BB0000002YkGXMA0,atis_airline,list the airlines with flights to or from denver
-atis_airline,a0BB0000002YkGYMA0,atis_airline,what airlines fly into denver
-atis_flight,a0BB0000002YkGZMA0,atis_flight,list all flights arriving in denver between 8 and 9 pm
-atis_abbreviation,a0BB0000002YkGaMAK,atis_abbreviation,what is 73s
-atis_flight,a0BB0000002YkGbMAK,atis_flight,list all of the daily flights arriving in denver between 8 and 9 pm
-atis_flight,a0BB0000002YkGcMAK,atis_flight,list all of the daily flights arriving in denver from 8 to 9 pm
-atis_flight,a0BB0000002YkGdMAK,atis_flight,show me all of the daily flights arriving in denver between 8 pm and 9 pm
-atis_aircraft,a0BB0000002YkGeMAK,atis_aircraft,tell me about the m80 aircraft
-atis_aircraft,a0BB0000002YkGfMAK,atis_aircraft,tell me about the m80 aircraft
-atis_aircraft,a0BB0000002YkGgMAK,atis_aircraft,tell me about the type of aircraft called an m80
-atis_flight,a0BB0000002YkGhMAK,atis_flight,list all flights arriving or leaving denver between 8 and 9 pm
-atis_flight,a0BB0000002YkGiMAK,atis_flight,list all flights arriving in denver between 8 and 9 pm
-atis_flight,a0BB0000002YkGjMAK,atis_flight,list all flights on all types of aircraft arriving in denver between 8 and 9 pm
-atis_flight,a0BB0000002YkGkMAK,atis_flight,please list all flights from nashville to memphis on monday morning
-atis_flight,a0BB0000002YkGlMAK,atis_flight,please list the flights from nashville to memphis on monday morning
-atis_ground_service,a0BB0000002YkGmMAK,atis_ground_service,is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning
-atis_flight,a0BB0000002YkGnMAK,atis_flight,please list the flights from memphis to new york city on a monday night
-atis_abbreviation,a0BB0000002YkGoMAK,atis_abbreviation,what is cvg
-atis_ground_service,a0BB0000002YkGpMAK,atis_ground_service,what ground transportation is available from la guardia airport into new york city
-atis_ground_service,a0BB0000002YkGqMAK,atis_ground_service,is there ground transportation from lga into new york city
-atis_ground_service,a0BB0000002YkGrMAK,atis_ground_service,please list the ground transportation from lga into new york city
-atis_airfare,a0BB0000002YkH6MAK,atis_airfare,list the cheapest fare from charlotte to las vegas
-atis_flight,a0BB0000002YkH7MAK,atis_flight,i want a flight from los angeles to charlotte early in the morning
-atis_flight,a0BB0000002Yk5eMAC,atis_flight,are there any flights from long beach to columbus on wednesday april sixth
-atis_flight,a0BB0000002Yk5dMAC,atis_flight,after 12 pm on wednesday april sixth i would like to fly from long beach to columbus
-atis_flight,a0BB0000002Yk5fMAC,atis_flight,find a flight from memphis to tacoma dinner
-atis_flight,a0BB0000002Yk5gMAC,atis_flight,on next wednesday flight from kansas city to chicago should arrive in chicago around 7 pm return flight on thursday
-atis_flight,a0BB0000002Yk5hMAC,atis_flight,flight on american from miami to chicago arrive in chicago about 5 pm
-atis_flight,a0BB0000002Yk5iMAC,atis_flight,find flights arriving new york city next saturday
-atis_flight,a0BB0000002Yk5jMAC,atis_flight,find nonstop flights from salt lake city to new york on saturday april ninth
-atis_flight,a0BB0000002Yk5kMAC,atis_flight,show flights from burbank to milwaukee for today
-atis_flight,a0BB0000002Yk5lMAC,atis_flight,show flights tomorrow evening from milwaukee to st. louis
-atis_flight,a0BB0000002Yk5mMAC,atis_flight,show flights saturday evening from st. louis to burbank
-atis_flight,a0BB0000002Yk5nMAC,atis_flight,show flights from burbank to st. louis on monday
-atis_flight,a0BB0000002Yk5oMAC,atis_flight,show flights from burbank to milwaukee on monday
-atis_flight,a0BB0000002Yk5pMAC,atis_flight,show flights tuesday evening from milwaukee to st. louis
-atis_flight,a0BB0000002Yk5qMAC,atis_flight,show flights wednesday evening from st. louis to burbank
-atis_flight,a0BB0000002Yk5rMAC,atis_flight,which flights travel from kansas city to los angeles
-atis_flight,a0BB0000002Yk5sMAC,atis_flight,what flights travel from las vegas to los angeles
-atis_flight,a0BB0000002Yk5tMAC,atis_flight,which flights travel from kansas city to los angeles on april ninth
-atis_flight,a0BB0000002Yk5uMAC,atis_flight,which flights travel from las vegas to los angeles california and arrive on april ninth between 4 and 5 pm
-atis_flight,a0BB0000002Yk5vMAC,atis_flight,which flights on us air go from orlando to cleveland
-atis_flight,a0BB0000002Yk5wMAC,atis_flight,which flights travel from cleveland to indianapolis on april fifth
-atis_flight,a0BB0000002Yk5xMAC,atis_flight,which flights travel from indianapolis to san diego on april fifth
-atis_flight,a0BB0000002Yk5yMAC,atis_flight,which flights go from cleveland to indianapolis on april fifth
-atis_flight,a0BB0000002Yk5zMAC,atis_flight,which flights travel from nashville to tacoma
-atis_ground_service,a0BB0000002Yk60MAC,atis_ground_service,does tacoma airport offer transportation from the airport to the downtown area
-atis_flight,a0BB0000002Yk61MAC,atis_flight,which flights travel from tacoma to san jose
-atis_flight,a0BB0000002Yk62MAC,atis_flight,what are the flights from tacoma to san jose
-atis_flight,a0BB0000002Yk63MAC,atis_flight,what are the flights from tacoma to san jose
-atis_flight,a0BB0000002Yk64MAC,atis_flight,i need a flight that goes from boston to orlando
-atis_flight,a0BB0000002Yk65MAC,atis_flight,are there any flights from boston to orlando connecting in new york
-atis_flight,a0BB0000002Yk66MAC,atis_flight,are there any flights from boston to orlando connecting in columbus
-atis_flight,a0BB0000002Yk67MAC,atis_flight,does this flight serve dinner
-atis_flight,a0BB0000002Yk68MAC,atis_flight,i need a flight from charlotte to miami
-atis_flight,a0BB0000002Yk69MAC,atis_flight,i need a nonstop flight from miami to toronto
-atis_flight,a0BB0000002Yk6AMAS,atis_flight,i need a nonstop flight from toronto to st. louis
-atis_flight,a0BB0000002Yk6BMAS,atis_flight,i need a flight from toronto to st. louis
-atis_flight,a0BB0000002Yk6CMAS,atis_flight,i need a flight from st. louis to charlotte
-atis_flight,a0BB0000002Yk6DMAS,atis_flight,i need a flight on united airlines from la guardia to san jose
-atis_flight,a0BB0000002YkABMA0,atis_flight,i need a flight from new york to los angeles on saturday evening on us air
-atis_flight,a0BB0000002YkACMA0,atis_flight,i'd like a red eye flight from new york to los angeles on saturday evening on us air
-atis_flight,a0BB0000002YkAAMA0,atis_flight,i need a flight on friday afternoon in june from new york to cleveland
-atis_flight,a0BB0000002YkADMA0,atis_flight,i'd like a flight from new york to los angeles on saturday morning on us air
-atis_flight,a0BB0000002YkAEMA0,atis_flight,i need a flight from san francisco to milwaukee on monday morning
-atis_abbreviation,a0BB0000002YkAFMA0,atis_abbreviation,what does ua mean
-atis_flight,a0BB0000002YkAGMA0,atis_flight,i need a flight from milwaukee to washington dc on monday night
-atis_flight,a0BB0000002YkAHMA0,atis_flight,how about flights from milwaukee to washington dc on tuesday mornings
-atis_ground_service,a0BB0000002YkAIMA0,atis_ground_service,i'll need to rent a car in washington dc
-atis_flight,a0BB0000002YkAJMA0,atis_flight,can i get a flight on tuesday night from washington dc to oakland
-atis_flight,a0BB0000002YkAKMA0,atis_flight,how about from dc to oakland on wednesday morning
-atis_airfare,a0BB0000002YkALMA0,atis_airfare,how much does it cost to fly on twa from columbus to milwaukee
-atis_abbreviation,a0BB0000002YkAMMA0,atis_abbreviation,what does q mean
-atis_airfare,a0BB0000002YkANMA0,atis_airfare,how much does it cost to fly from columbus to st. louis round trip on twa
-atis_flight,a0BB0000002YkAOMA0,atis_flight,what's the cheapest flight from columbus to st. louis round trip on twa
-atis_flight,a0BB0000002YkAPMA0,atis_flight,what's the cheapest round trip flight on twa from columbus to st. paul
-atis_flight,a0BB0000002YkAQMA0,atis_flight,i want to fly from milwaukee to los angeles
-atis_flight,a0BB0000002YkARMA0,atis_flight,can i get the shortest flight from milwaukee to orlando
-atis_flight,a0BB0000002YkASMA0,atis_flight,what is the shortest flight from milwaukee to long beach
-atis_abbreviation,a0BB0000002YkATMA0,atis_abbreviation,what does m mean
-atis_abbreviation,a0BB0000002YkAUMA0,atis_abbreviation,what does ap 57 mean
-atis_flight,a0BB0000002YkAVMA0,atis_flight,what is the shortest flight from milwaukee to st. petersburg
-atis_flight,a0BB0000002YkAWMA0,atis_flight,what is the shortest flight from milwaukee to long beach
-atis_flight,a0BB0000002YkAXMA0,atis_flight,what is the shortest flight from milwaukee to san diego
-atis_abbreviation,a0BB0000002YkAYMA0,atis_abbreviation,what does ap 20 mean
-atis_flight,a0BB0000002YkAZMA0,atis_flight,can i get a flight today from san francisco to detroit michigan
-atis_flight,a0BB0000002YkAaMAK,atis_flight,what's the cheapest flight from san francisco to detroit today
-atis_flight,a0BB0000002YkAbMAK,atis_flight,i want to fly from san francisco to milwaukee and from milwaukee to denver
-atis_flight,a0BB0000002YkAcMAK,atis_flight,what's the cheapest flight from san francisco to milwaukee
-atis_ground_service,a0BB0000002YkAdMAK,atis_ground_service,i need to rent a car in milwaukee
-atis_flight,a0BB0000002YkAeMAK,atis_flight,what's the cheapest flight tomorrow from milwaukee to denver
-atis_ground_service,a0BB0000002YkAfMAK,atis_ground_service,what ground transportation is available at denver
-atis_flight,a0BB0000002YkAgMAK,atis_flight,what's the cheapest flight from san francisco to denver
-atis_flight,a0BB0000002YkAhMAK,atis_flight,what flights leave from cleveland and go to dallas
-atis_flight,a0BB0000002YkAiMAK,atis_flight,show me all nonstop flights from st. petersburg to charlotte
-atis_airline,a0BB0000002YkAjMAK,atis_airline,what airline is us
-atis_flight,a0BB0000002YkAkMAK,atis_flight,show me flights between toronto and san diego
-atis_abbreviation,a0BB0000002YkAlMAK,atis_abbreviation,what is phl
-atis_flight,a0BB0000002YkH3MAK,atis_flight,list all alaska airlines flights
-atis_ground_service,a0BB0000002YkGsMAK,atis_ground_service,please list ground transportation from ewr into new york city
-atis_flight,a0BB0000002YkGtMAK,atis_flight,show me the morning flights from memphis to new york city
-atis_flight,a0BB0000002YkGuMAK,atis_flight,give me the flights from new york city to nashville leaving after 5 pm on wednesday
-atis_flight,a0BB0000002YkH4MAK,atis_flight,list all flights departing from seattle
-atis_ground_service,a0BB0000002YkGvMAK,atis_ground_service,tell me about the ground transportation from nashville airport
-atis_flight,a0BB0000002YkGwMAK,atis_flight,what are the nonstop flights from cincinnati to charlotte leaving after noon and arriving before 7 pm
-atis_flight,a0BB0000002YkGxMAK,atis_quantity,how many flights does alaska airlines have to burbank
-atis_flight,a0BB0000002YkGyMAK,atis_flight,list the alaska airline flights from burbank to anywhere
-atis_flight,a0BB0000002YkGzMAK,atis_flight,list the alaska airline flights from burbank
-atis_airline,a0BB0000002YkH0MAK,atis_airline,which airline is as
-atis_flight,a0BB0000002YkH1MAK,atis_flight,list the alaska airlines flights arriving in burbank
-atis_flight,a0BB0000002YkH2MAK,atis_flight,list the alaska airlines flights a departing from burbank
-atis_flight,a0BB0000002YkH5MAK,atis_flight,list the flights from indianapolis to memphis that leave before noon
-atis_flight,a0BB0000002YkH8MAK,atis_flight,i would like a morning flight from charlotte to newark
-atis_flight,a0BB0000002YkH9MAK,atis_flight,i'd like a morning flight from newark to los angeles
-atis_flight,a0BB0000002YkHAMA0,atis_flight,i'd like an evening flight from newark to los angeles
-atis_flight,a0BB0000002YkHBMA0,atis_flight,i would like a flight that leaves on sunday from montreal quebec to san diego california
-atis_flight,a0BB0000002YkHCMA0,atis_flight,i would like a flight on tuesday which leaves from san diego to indianapolis indiana and that leaves in the afternoon
-atis_flight,a0BB0000002YkHDMA0,atis_flight,i would like to leave thursday morning from indianapolis to toronto
-atis_flight,a0BB0000002YkHEMA0,atis_flight,i would like a flight on friday morning from toronto to montreal
-atis_flight,a0BB0000002YkHFMA0,atis_flight,i would like a flight from cincinnati to burbank on american
-atis_aircraft,a0BB0000002YkHGMA0,atis_aircraft,what type of aircraft is used for the american flight leaving at 419 pm
-atis_flight,a0BB0000002YkHHMA0,atis_flight,i need a flight leaving kansas city to chicago leaving next wednesday and returning the following day
-atis_flight,a0BB0000002YkHIMA0,atis_flight,what flights go from long beach to st. louis
-atis_flight,a0BB0000002Yk6EMAS,atis_flight,i need a flight from tampa to milwaukee
-atis_flight,a0BB0000002Yk6FMAS,atis_flight,i need a flight from milwaukee to seattle
-atis_flight,a0BB0000002Yk6GMAS,atis_flight,i need a flight from memphis to las vegas
-atis_flight,a0BB0000002Yk6HMAS,atis_flight,i need a flight from las vegas to ontario
-atis_flight,a0BB0000002Yk6IMAS,atis_flight,i need a flight from ontario to memphis
-atis_flight,a0BB0000002Yk6JMAS,atis_flight,which flights go from milwaukee to tampa and stop in nashville
-atis_flight,a0BB0000002Yk6KMAS,atis_flight,which flights leave newark after noon next saturday and arrive in los angeles
-atis_flight,a0BB0000002Yk6LMAS,atis_flight,which flights leave detroit and arrive at st. petersburg around 9 am
-atis_flight,a0BB0000002Yk6MMAS,atis_flight,which flights on northwest airline leave detroit and arrive at st. petersburg
-atis_flight,a0BB0000002Yk6NMAS,atis_flight,which flights leave chicago next tuesday and arrive in detroit around 6 pm
-atis_flight,a0BB0000002YkD5MAK,atis_flight,i need flight information from milwaukee to tampa
-atis_ground_service,a0BB0000002YkD6MAK,atis_ground_service,i need to rent a car at tampa
-atis_flight,a0BB0000002YkD7MAK,atis_flight,i need a daily flight from st. louis to milwaukee
-atis_flight,a0BB0000002YkD8MAK,atis_flight,i need flights departing from oakland and arriving salt lake city
-atis_flight,a0BB0000002YkD9MAK,atis_flight,i need information on flights from toronto to san diego
-atis_flight,a0BB0000002YkDAMA0,atis_flight,i need information on flights from toronto to san diego
-atis_flight,a0BB0000002YkDBMA0,atis_flight,i want a flight from toronto to san diego
-atis_flight,a0BB0000002YkDCMA0,atis_flight,i need information on flights between st. petersburg and charlotte
-atis_flight,a0BB0000002YkDDMA0,atis_flight,which flights go from new york to miami and back
-atis_abbreviation,a0BB0000002YkDEMA0,atis_abbreviation,what does fare code qo mean
-atis_flight,a0BB0000002YkDFMA0,atis_flight,show me flights from milwaukee to orlando one way
-atis_abbreviation,a0BB0000002YkDGMA0,atis_abbreviation,what the abbreviation us stand for
-atis_airfare,a0BB0000002YkDHMA0,atis_airfare,i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning
-atis_flight,a0BB0000002YkDIMA0,atis_flight,show me flights from milwaukee to orlando
-atis_abbreviation,a0BB0000002YkDJMA0,atis_abbreviation,what does fare code f mean
-atis_abbreviation,a0BB0000002YkDKMA0,atis_abbreviation,what does fare code h mean
-atis_abbreviation,a0BB0000002YkDLMA0,atis_abbreviation,what does fare code y mean
-atis_abbreviation,a0BB0000002YkDMMA0,atis_abbreviation,what are restrictions ap 57
-atis_flight,a0BB0000002YkDNMA0,atis_flight,please show me first class flights from indianapolis to memphis one way leaving before 10 am
-atis_flight,a0BB0000002YkDOMA0,atis_flight,now show me all round trip flights from burbank to seattle that arrive before 7 pm in seattle
-atis_flight,a0BB0000002YkDPMA0,atis_flight,round trip flights from orlando to montreal please
-atis_airline,a0BB0000002YkDQMA0,atis_airline,what airline is dl
-atis_flight,a0BB0000002YkDRMA0,atis_flight,show me all delta airlines flights from montreal to orlando
-atis_flight,a0BB0000002YkDSMA0,atis_flight,show me all flights from orlando to montreal please
-atis_airline,a0BB0000002YkDTMA0,atis_airline,which airline is kw
-atis_flight,a0BB0000002YkDUMA0,atis_flight,please list all flights from new york to miami any any type of class
-atis_abbreviation,a0BB0000002YkDVMA0,atis_abbreviation,what does fare code bh mean
-atis_flight,a0BB0000002YkDWMA0,atis_flight,show me a return flight from miami to jfk please
-atis_abbreviation,a0BB0000002YkDXMA0,atis_abbreviation,what does fare code bh mean
-atis_abbreviation,a0BB0000002YkDYMA0,atis_abbreviation,what does fare code bh mean
-atis_abbreviation,a0BB0000002YkDZMA0,atis_abbreviation,what does fare code bh mean
-atis_abbreviation,a0BB0000002YkDaMAK,atis_abbreviation,what does fare code bh mean
-atis_flight,a0BB0000002YkDbMAK,atis_flight,show me one way flights from milwaukee to orlando after 6 pm on wednesday
-atis_flight,a0BB0000002YkDcMAK,atis_flight,show me the flights from indianapolis to memphis
-atis_flight,a0BB0000002YkDdMAK,atis_flight,show me round trip flights from burbank to seattle
-atis_flight,a0BB0000002YkDeMAK,atis_flight,show me round trip flights from orlando to montreal
-atis_flight,a0BB0000002YkDfMAK,atis_flight,show me nonstop flights from montreal to orlando
-atis_flight,a0BB0000002YkDgMAK,atis_flight,show me round trips between montreal and orlando
-atis_flight,a0BB0000002YkDhMAK,atis_flight,show me round trip flights from montreal to orlando
+Original_Intent__c,Ext_Id__c,Utterance__c
+atis_flight,a0BB0000002YkDiMAK,show me the cheapest one way flights from montreal to orlando
+atis_flight,a0BB0000002YkDjMAK,show me the cheapest one way flights from orlando to montreal
+atis_flight,a0BB0000002YkDkMAK,show me the cheapest economy flights from miami to new york
+atis_flight,a0BB0000002YkDlMAK,kansas city to las vegas economy
+atis_flight,a0BB0000002YkDmMAK,kansas city to las vegas economy
+atis_airline,a0BB0000002YkDnMAK,what airline is hp
+atis_ground_service,a0BB0000002YkDoMAK,ground transportation in las vegas
+atis_ground_service,a0BB0000002YkDpMAK,ground transportation for las vegas
+atis_flight,a0BB0000002YkDqMAK,las vegas to baltimore economy
+atis_flight,a0BB0000002YkDrMAK,las vegas to baltimore economy
+atis_flight,a0BB0000002YkDsMAK,baltimore to kansas city economy
+atis_airline,a0BB0000002YkDtMAK,what airline is us
+atis_airline,a0BB0000002YkDuMAK,which airline is us
+atis_airline,a0BB0000002YkDvMAK,which airline is us
+atis_airline,a0BB0000002YkDwMAK,which airline is us
+atis_airline,a0BB0000002YkDxMAK,which airline is us
+atis_flight,a0BB0000002YkDyMAK,columbus to chicago one way before 10 am
+atis_airline,a0BB0000002YkDzMAK,what airline is hp
+atis_flight,a0BB0000002YkAnMAK,show me the flights between oakland and salt lake city
+atis_abbreviation,a0BB0000002YkAmMAK,what is mci
+atis_abbreviation,a0BB0000002YkAoMAK,what does not sa mean
+atis_flight,a0BB0000002YkApMAK,what is the earliest daily flight between oakland and salt lake city
+atis_airline,a0BB0000002YkAqMAK,what airline is dl
+atis_flight,a0BB0000002YkArMAK,what is the latest daily flight between oakland and salt lake city
+atis_flight,a0BB0000002YkAsMAK,show me the flights between los angeles and dallas
+atis_ground_service,a0BB0000002YkAtMAK,what ground transportation is available from dallas fort worth airport to downtown dallas
+atis_flight,a0BB0000002YkAuMAK,what are the flights between dallas and phoenix
+atis_ground_service,a0BB0000002YkAvMAK,what ground transportation is available between phoenix airport and downtown phoenix
+atis_flight,a0BB0000002YkAwMAK,are there any flights between dallas and phoenix using a dc10 aircraft
+atis_airline,a0BB0000002YkAxMAK,what airline is aa
+atis_flight,a0BB0000002YkAyMAK,show me the flights between milwaukee and indiana
+atis_flight,a0BB0000002YkIEMA0,now show me all the flights from st. louis to burbank
+atis_airline,a0BB0000002YkIFMA0,is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank
+atis_flight,a0BB0000002YkIDMA0,find me all the flights from milwaukee to st. louis
+atis_flight,a0BB0000002YkIGMA0,find me all the round trip flights from burbank to milwaukee stopping in st. louis
+atis_flight,a0BB0000002YkIHMA0,i'd like to book two flights to westchester county
+atis_flight,a0BB0000002YkIIMA0,i want to book a flight from salt lake city to westchester county
+atis_flight,a0BB0000002YkIJMA0,i'd like to book a flight from cincinnati to new york city on united airlines for next saturday
+atis_flight,a0BB0000002YkIKMA0,please find all the flights from cincinnati to any airport in the new york city area that arrive next saturday before 6 pm
+atis_flight,a0BB0000002YkILMA0,find me a flight from cincinnati to any airport in the new york city area
+atis_flight,a0BB0000002YkIMMA0,i'd like to fly from miami to chicago on american airlines
+atis_flight,a0BB0000002YkINMA0,i would like to book a round trip flight from kansas city to chicago
+atis_flight,a0BB0000002YkIOMA0,find me a flight that flies from memphis to tacoma
+atis_flight,a0BB0000002Yk6PMAS,which round trip flights leave chicago next tuesday around 6 pm and arrive in detroit
+atis_flight,a0BB0000002Yk6QMAS,which round trip flights leave chicago next tuesday and arrive in detroit around 6 pm
+atis_flight,a0BB0000002Yk6OMAS,show me round trip flights from chicago to detroit leaving next tuesday and returning the day after
+atis_flight,a0BB0000002Yk6RMAS,which flights leave on monday from montreal and arrive in chicago in the morning
+atis_flight,a0BB0000002Yk6SMAS,which flights leave chicago on april twelfth and arrive in indianapolis in the morning
+atis_flight,a0BB0000002Yk6TMAS,which flights leave on wednesday april thirteenth from indianapolis and arrive in montreal in the morning
+atis_flight,a0BB0000002Yk6UMAS,which flights leave april twelfth from indianapolis and arrive in montreal around 10 pm
+atis_flight,a0BB0000002Yk6VMAS,i'd like to go from long beach to st. louis and i'd like to stop in dallas i'd also like to have lunch during my flight
+atis_flight,a0BB0000002Yk6WMAS,next wednesday i would like to leave kansas city on a trip to chicago which arrives in chicago around 7 pm
+atis_flight,a0BB0000002Yk6XMAS,i would like to return from chicago around 7 pm to kansas city
+atis_flight,a0BB0000002Yk6YMAS,i would like to leave this afternoon on an american flight from cincinnati to burbank
+atis_flight,a0BB0000002Yk6ZMAS,on sunday evening i would like to leave montreal quebec on a flight to san diego california
+atis_flight,a0BB0000002Yk6aMAC,what are the flights on sunday from montreal quebec to san diego california
+atis_flight,a0BB0000002Yk6bMAC,on tuesday are the flights from san diego california to indianapolis indiana i would like the flight to be in the afternoon
+atis_flight,a0BB0000002Yk6cMAC,on thursday morning i would like a nonstop flight from indianapolis to toronto
+atis_flight,a0BB0000002Yk6dMAC,on friday morning i would like to fly from toronto to montreal
+atis_flight,a0BB0000002Yk6eMAC,i would like an early morning flight today from los angeles to charlotte
+atis_flight,a0BB0000002Yk6fMAC,on wednesday night i would like a flight from charlotte to newark
+atis_flight,a0BB0000002Yk6gMAC,on friday night i would like a flight from newark to los angeles
+atis_flight,a0BB0000002Yk6hMAC,find a flight from tampa to montreal by way of new york
+atis_flight,a0BB0000002Yk6iMAC,please find a flight from miami florida to las vegas nevada arriving before 4 o'clock pm
+atis_flight,a0BB0000002Yk6jMAC,please find a flight from las vegas to michigan
+atis_flight,a0BB0000002Yk6kMAC,please find a flight from detroit michigan to st. petersburg arriving before 10 pm
+atis_flight,a0BB0000002Yk6lMAC,please find a flight from st. petersburg to miami on thursday
+atis_flight,a0BB0000002Yk6mMAC,please find a flight from san diego to toronto on alaska airlines
+atis_flight,a0BB0000002Yk6nMAC,please find the flights from columbus to houston with a layover in nashville tomorrow
+atis_flight,a0BB0000002Yk6oMAC,please give me the flights from nashville to houston nonstop with dinner served
+atis_flight,a0BB0000002Yk6pMAC,please find flights available from kansas city to newark
+atis_flight,a0BB0000002Yk6qMAC,please find a flight that goes from kansas city to newark to orlando back to kansas city
+atis_flight,a0BB0000002Yk6rMAC,please find a flight from kansas city to newark
+atis_flight,a0BB0000002Yk6sMAC,please find a flight from newark to orlando
+atis_flight,a0BB0000002Yk6tMAC,please find a flight from orlando to kansas city
+atis_flight,a0BB0000002Yk6uMAC,i would like to fly from columbus to phoenix through cincinnati in the afternoon
+atis_flight,a0BB0000002Yk6vMAC,does the airport at burbank have a flight that comes in from kansas city
+atis_flight,a0BB0000002Yk6wMAC,which flights arrive in burbank from kansas city on saturdays in the afternoon
+atis_flight,a0BB0000002Yk6xMAC,which flights arrive in burbank from las vegas on saturday april twenty third in the afternoon
+atis_flight,a0BB0000002Yk6yMAC,which flights are available from orlando to cleveland that arrive around 10 pm
+atis_flight,a0BB0000002Yk6zMAC,what flights are available from indianapolis to san diego on april twenty first in the late afternoon
+atis_flight,a0BB0000002Yk70MAC,what flights leave cleveland going to indianapolis on april twenty first in the morning
+atis_flight,a0BB0000002Yk71MAC,which flights are available on april twenty first in the morning from nashville to tacoma
+atis_flight,a0BB0000002Yk72MAC,which flights are available from tacoma to san jose in the morning on april twenty second
+atis_flight,a0BB0000002Yk73MAC,which flights are available from san jose to nashville leaving in the morning on april twenty three
+atis_airfare,a0BB0000002Yk74MAC,what is the most expensive one way fare between detroit and westchester county
+atis_airline,a0BB0000002Yk75MAC,what airlines fly between detroit and westchester county
+atis_flight_time,a0BB0000002Yk76MAC,what are the departure times from detroit to westchester county
+atis_flight,a0BB0000002Yk77MAC,what is the latest flight from baltimore to oakland that serves dinner
+atis_flight,a0BB0000002Yk78MAC,what is the earliest flight between baltimore and oakland that serves breakfast
+atis_airline,a0BB0000002Yk79MAC,what airline flies from boston to san diego
+atis_flight,a0BB0000002Yk7AMAS,what is the latest breakfast flight from dallas to tampa
+atis_flight,a0BB0000002Yk7BMAS,show me all lufthansa flights from seattle to boston with stopovers in minneapolis
+atis_flight,a0BB0000002Yk7CMAS,show me all flights from seattle to boston with stopovers in minneapolis
+atis_flight,a0BB0000002Yk7DMAS,list philadelphia to san francisco flights with stopovers in dallas
+atis_flight,a0BB0000002Yk7EMAS,show me the connecting flights between boston and denver and the types of aircraft used
+atis_flight,a0BB0000002Yk7FMAS,show me all the morning flights from philadelphia to fort worth
+atis_flight,a0BB0000002Yk7GMAS,show me all the flights from kansas city to st. paul
+atis_flight,a0BB0000002Yk7HMAS,show me northwest flight 608 from kansas city to st. paul
+atis_flight,a0BB0000002Yk7IMAS,show me all the flights from indianapolis to charlotte on monday
+atis_ground_service,a0BB0000002Yk7JMAS,what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte
+atis_flight,a0BB0000002Yk7KMAS,show me all the flights from charlotte to minneapolis that leave at 2 pm or later on monday
+atis_flight,a0BB0000002Yk7LMAS,show me all the flights from charlotte to minneapolis on tuesday morning
+atis_flight,a0BB0000002Yk7MMAS,show me the direct flights from charlotte to minneapolis on tuesday morning
+atis_flight,a0BB0000002Yk7NMAS,show me flight us 1500 on monday from charlotte to minneapolis please
+atis_flight,a0BB0000002Yk7OMAS,show me all the flights from minneapolis to indianapolis on tuesday that leave after 2 pm
+atis_flight,a0BB0000002Yk7PMAS,show me the flights from minneapolis to indiana
+atis_ground_service,a0BB0000002YkB0MAK,what ground transportation is available between pittsburgh airport and downtown pittsburgh
+atis_flight,a0BB0000002YkB1MAK,show me the flights between pittsburgh and washington dc
+atis_flight,a0BB0000002YkAzMAK,what are the flights between milwaukee and pittsburgh
+atis_ground_service,a0BB0000002YkB2MAK,what ground transportation is available between dca and downtown washington
+atis_flight,a0BB0000002YkB3MAK,what are the flights between dca and milwaukee
+atis_ground_service,a0BB0000002YkB4MAK,what ground transportation is available between milwaukee airport and downtown milwaukee
+atis_aircraft,a0BB0000002YkB5MAK,determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon
+atis_flight,a0BB0000002YkB6MAK,find a flight between st. petersburg and charlotte the flight should leave in the afternoon and arrive as soon after 5 pm as possible it should be a nonstop flight
+atis_flight,a0BB0000002YkB7MAK,list a flight on delta airlines from toronto to san diego
+atis_flight,a0BB0000002YkB8MAK,list a flight on american airlines from toronto to san diego
+atis_flight,a0BB0000002YkB9MAK,list a flight from toronto to san diego
+atis_flight,a0BB0000002YkBAMA0,list flights from oakland to salt lake city leaving after 1700 wednesday
+atis_flight,a0BB0000002YkBBMA0,list flights from oakland to salt lake city leaving after midnight thursday
+atis_flight,a0BB0000002YkBCMA0,list flights between phoenix and las vegas
+atis_flight,a0BB0000002YkBDMA0,list flights from las vegas to denver
+atis_flight,a0BB0000002YkBEMA0,list flights from milwaukee to washington dc before 1200
+atis_flight,a0BB0000002YkBFMA0,list flights from washington dc to pittsburgh leaving after 1800
+atis_flight,a0BB0000002YkBGMA0,list flights from washington dc to pittsburgh
+atis_flight,a0BB0000002YkBHMA0,list flights between pittsburgh and milwaukee
+atis_flight,a0BB0000002YkBIMA0,i'd like a flight to san diego from washington dc
+atis_flight,a0BB0000002YkBJMA0,i'd like to fly from cleveland to dallas
+atis_flight,a0BB0000002YkBKMA0,i want to fly from washington dc to phoenix arizona
+atis_flight,a0BB0000002YkBLMA0,i need a flight from phoenix to atlanta
+atis_flight,a0BB0000002YkBMMA0,i would like to fly from atlanta to san diego
+atis_flight,a0BB0000002YkBNMA0,i would like to fly from san diego to seattle
+atis_flight,a0BB0000002YkBOMA0,i would like to fly from orlando to kansas city
+atis_flight,a0BB0000002YkBPMA0,i need a flight from kansas city to minneapolis
+atis_flight,a0BB0000002YkBQMA0,i need a flight from san diego to washington dc
+atis_flight,a0BB0000002YkBRMA0,i need a flight from washington dc to san diego
+atis_airfare,a0BB0000002YkBSMA0,what is the lowest fare for a flight from washington dc to boston
+atis_airfare,a0BB0000002YkBTMA0,what is the lowest fare from washington dc to montreal
+atis_airfare,a0BB0000002YkBUMA0,what is the lowest fare from toronto to washington dc
+atis_flight,a0BB0000002YkBVMA0,i want a flight from montreal to washington dc
+atis_flight,a0BB0000002YkBWMA0,i want a flight from nashville to seattle that arrives no later than 3 pm
+atis_flight,a0BB0000002Yk7RMAS,show me flight us 1207 from indianapolis to charlotte on monday and flight us 1500 from charlotte to minneapolis on monday and flight twa 639 from minneapolis to indianapolis
+atis_flight,a0BB0000002Yk7SMAS,show me all the flights from las vegas to new york city
+atis_flight,a0BB0000002Yk7QMAS,show me the flights in from minneapolis to indianapolis on tuesday afternoon
+atis_airline,a0BB0000002Yk7TMAS,which different airlines go from las vegas to new york city
+atis_flight,a0BB0000002Yk7UMAS,show me all the flights on america west and twa from las vegas to jfk on a friday
+atis_flight,a0BB0000002Yk7VMAS,what are the flights from tacoma to miami that leave after 6 pm tomorrow
+atis_flight,a0BB0000002Yk7WMAS,i'd like to fly from san diego to houston on june tenth
+atis_flight,a0BB0000002Yk7XMAS,is there an american airlines flight from houston to newark on june tenth after 6 pm
+atis_flight,a0BB0000002Yk7YMAS,is there an american airlines flight from houston to newark on june tenth after 3 pm
+atis_flight,a0BB0000002Yk7ZMAS,i need to get from cincinnati to denver on june sixth by 6 pm
+atis_ground_service,a0BB0000002Yk7aMAC,what's the ground transportation in denver
+atis_flight,a0BB0000002Yk7bMAC,i need to fly from denver to westchester county on june seventh after 3 pm
+atis_ground_service,a0BB0000002Yk7cMAC,what's the ground transportation in westchester county
+atis_flight,a0BB0000002Yk7dMAC,i need to take a united airlines flight on june eighth from westchester county to cincinnati after 3 pm
+atis_flight,a0BB0000002Yk7eMAC,what united airlines flights on june eighth go from westchester county to cincinnati
+atis_flight,a0BB0000002Yk7fMAC,on june eighth what flights go from westchester county to cincinnati
+atis_flight,a0BB0000002Yk7gMAC,does us air fly from cincinnati to denver on june sixth
+atis_flight,a0BB0000002Yk7hMAC,list the flights from cincinnati to denver on june sixth
+atis_flight,a0BB0000002Yk7iMAC,list the flights from denver to westchester county on june seventh
+atis_flight,a0BB0000002Yk7jMAC,list the flights from westchester county to cincinnati on june eighth
+atis_flight,a0BB0000002Yk7kMAC,list the flights from cincinnati to westchester county on june sixth
+atis_flight,a0BB0000002Yk7lMAC,list the flights from westchester county to denver on june seventh
+atis_flight,a0BB0000002Yk7mMAC,list the flights from denver to cincinnati on june eighth
+atis_flight,a0BB0000002Yk7nMAC,list the flights from denver to cincinnati on june sixth after 4 pm
+atis_flight,a0BB0000002Yk7oMAC,list the flights from cincinnati to westchester county on june seventh
+atis_flight,a0BB0000002Yk7pMAC,list the flights from westchester county to cincinnati on june seventh leaving after 5 pm
+atis_airline,a0BB0000002Yk7qMAC,what airlines off from love field between 6 and 10 am on june sixth
+atis_flight,a0BB0000002Yk7rMAC,what flights arrive at love field on june sixth
+atis_airfare,a0BB0000002YkBvMAK,list fares from washington dc to montreal
+atis_flight,a0BB0000002YkBXMA0,i want a flight from memphis to seattle that arrives no later than 3 pm
+atis_flight,a0BB0000002YkBYMA0,i need a flight from indianapolis to seattle arriving in seattle at 1205 pm
+atis_flight,a0BB0000002YkBZMA0,i want a flight round trip from memphis to seattle
+atis_flight,a0BB0000002YkBwMAK,list flights from washington dc to montreal
+atis_flight,a0BB0000002YkBaMAK,i want to fly from nashville to seattle and i want the cheapest fare round trip
+atis_flight,a0BB0000002YkBbMAK,i want to fly from memphis to seattle round trip with the cheapest fare
+atis_flight,a0BB0000002YkBcMAK,i want to fly from indianapolis to seattle round trip with the cheapest fare
+atis_airfare,a0BB0000002YkBxMAK,list fares from washington dc to toronto that should be good
+atis_flight,a0BB0000002YkBdMAK,please list flights from orlando to philadelphia
+atis_flight,a0BB0000002YkBeMAK,please list flights from san francisco to charlotte
+atis_flight,a0BB0000002YkBfMAK,please list flights from milwaukee to philadelphia
+atis_airfare,a0BB0000002YkByMAK,list fares from washington dc to boston
+atis_flight,a0BB0000002YkBgMAK,please list flights from philadelphia to san francisco
+atis_ground_service,a0BB0000002YkBhMAK,please show ground transportation to milwaukee
+atis_flight,a0BB0000002YkBiMAK,please list flights from san francisco to milwaukee
+atis_flight,a0BB0000002YkBjMAK,list flights from houston to denver
+atis_flight,a0BB0000002YkBkMAK,list flights from houston to phoenix
+atis_flight,a0BB0000002YkBlMAK,list flights from phoenix to houston
+atis_flight,a0BB0000002YkBmMAK,list flights from newark to houston
+atis_flight,a0BB0000002YkBnMAK,show flights from denver to houston
+atis_flight,a0BB0000002YkBoMAK,show flights from st. petersburg to charlotte
+atis_flight,a0BB0000002YkBpMAK,show flights from orlando to kansas city
+atis_flight,a0BB0000002YkBqMAK,show flights from kansas city to minneapolis
+atis_flight,a0BB0000002YkBrMAK,show flights from kansas city to orlando
+atis_flight,a0BB0000002YkBsMAK,show flights from minneapolis to kansas city
+atis_flight,a0BB0000002YkBtMAK,show flights from kansas city to orlando
+atis_flight,a0BB0000002YkBuMAK,list flights from washington dc to boston
+atis_flight,a0BB0000002YkBzMAK,list flights from washington dc to montreal
+atis_flight,a0BB0000002YkE0MAK,st. petersburg to detroit
+atis_flight,a0BB0000002YkE1MAK,from milwaukee to orlando one way after 5 pm wednesday
+atis_flight,a0BB0000002YkE2MAK,and from milwaukee to atlanta before 10 am daily
+atis_airline,a0BB0000002YkE3MAK,what airline is yx
+atis_flight,a0BB0000002YkE4MAK,show me all flights from san jose to phoenix
+atis_flight,a0BB0000002YkE5MAK,show me all flights from san jose to phoenix
+atis_airline,a0BB0000002YkE6MAK,what airline is hp
+atis_ground_service,a0BB0000002YkE7MAK,show me ground transportation in phoenix
+atis_flight,a0BB0000002YkE8MAK,show me flights from phoenix to fort worth
+atis_ground_service,a0BB0000002YkE9MAK,show me ground transportation in fort worth
+atis_flight,a0BB0000002YkEAMA0,show me flights from fort worth to san jose
+atis_flight,a0BB0000002YkEBMA0,show me first class flights from new york to miami round trip
+atis_flight,a0BB0000002YkECMA0,show me first class flights from new york to miami round trip
+atis_flight,a0BB0000002YkEDMA0,show me all round trip flights from new york to miami nonstop
+atis_flight,a0BB0000002YkEEMA0,show me all round trip flights from miami to new york nonstop
+atis_flight,a0BB0000002YkEFMA0,show me one way flights from indianapolis to memphis before 10 am on any day
+atis_abbreviation,a0BB0000002YkEGMA0,what does fare code f mean
+atis_flight,a0BB0000002YkEHMA0,show me round trip flights from burbank to tacoma
+atis_abbreviation,a0BB0000002YkEIMA0,what does the restriction ap58 mean
+atis_abbreviation,a0BB0000002YkEJMA0,what does fare code h mean
+atis_airline,a0BB0000002YkEKMA0,what airline is as
+atis_airline,a0BB0000002YkELMA0,what airline is as
+atis_airline,a0BB0000002YkEMMA0,what airline is as
+atis_airline,a0BB0000002YkENMA0,what airline is as as in sam
+atis_flight,a0BB0000002YkEOMA0,show me nonstop flights from st. petersburg to toronto
+atis_flight,a0BB0000002YkEPMA0,show me nonstop flights from toronto to st. petersburg
+atis_flight,a0BB0000002Yk7sMAC,list the flights from montreal to philly before 9 am
+atis_flight,a0BB0000002Yk7tMAC,list the flights from cleveland to memphis
+atis_flight,a0BB0000002Yk7uMAC,list the flights from memphis to cleveland
+atis_flight,a0BB0000002Yk7vMAC,list the flights from denver to baltimore arriving on july first
+atis_flight,a0BB0000002Yk7wMAC,list the flights from dallas to baltimore arriving july first
+atis_flight,a0BB0000002Yk7xMAC,list the flights from pittsburgh to baltimore arriving on july first
+atis_flight,a0BB0000002Yk7yMAC,list the flights on canadian airlines international
+atis_quantity,a0BB0000002Yk7zMAC,how many canadian airlines international flights use j31
+atis_quantity,a0BB0000002Yk80MAC,how many canadian airlines international flights use aircraft 320
+atis_quantity,a0BB0000002Yk81MAC,how many canadian airlines flights use aircraft dh8
+atis_flight,a0BB0000002Yk82MAC,show me the flights on american airlines which fly from st. petersburg to ontario canada with a stopover in st. louis
+atis_flight,a0BB0000002Yk83MAC,show me the flights on american airlines which go from st. petersburg to ontario california by way of st. louis
+atis_flight,a0BB0000002Yk84MAC,show me the flights from houston to orlando
+atis_flight,a0BB0000002Yk85MAC,show me the flights from orlando to houston
+atis_flight,a0BB0000002Yk86MAC,show me the flights from detroit to las vegas
+atis_airfare,a0BB0000002Yk87MAC,show me the cheapest round trip coach fare from las vegas to detroit
+atis_airfare,a0BB0000002Yk88MAC,show me the cheapest round trip coach fare on twa from las vegas to detroit
+atis_flight,a0BB0000002Yk89MAC,show me the delta flights which serve a snack to coach passengers
+atis_abbreviation,a0BB0000002Yk8AMAS,what is meal code sb
+atis_flight,a0BB0000002Yk8BMAS,show me the delta flights from tampa to san francisco
+atis_flight,a0BB0000002Yk8CMAS,show me delta flight 486
+atis_flight,a0BB0000002Yk8DMAS,list the tower air flights on mondays
+atis_flight,a0BB0000002Yk8EMAS,list all tower air flights with meals
+atis_flight,a0BB0000002Yk8FMAS,what flights depart from baltimore
+atis_flight,a0BB0000002Yk8GMAS,what flights depart from baltimore and arrive at san francisco on a friday
+atis_flight,a0BB0000002Yk8HMAS,what flights leave from cincinnati in the morning and arrive in tampa
+atis_flight,a0BB0000002Yk8IMAS,which flights depart from tampa and arrive in cincinnati in the evening
+atis_flight,a0BB0000002Yk8JMAS,which flights depart from tampa in the early evening and arrive in cincinnati
+atis_flight,a0BB0000002Yk8KMAS,which flights depart from philadelphia and arrive in atlanta
+atis_flight,a0BB0000002Yk8LMAS,which flights depart from a atlanta and arrive in toronto
+atis_flight,a0BB0000002Yk8MMAS,which flights depart from toronto and arrive in washington dc
+atis_flight,a0BB0000002Yk8NMAS,which flights depart from new york and arrive in los angeles after 10 am
+atis_airline,a0BB0000002Yk8OMAS,what airlines fly between washington dc and columbus ohio
+atis_flight,a0BB0000002Yk8PMAS,what flights are there between washington dc and columbus ohio
+atis_flight,a0BB0000002Yk8QMAS,what are the flights between washington dc and columbus ohio
+atis_airfare,a0BB0000002Yk8RMAS,what are the fares for all flights between washington and columbus
+atis_flight,a0BB0000002YkEQMA0,show me the nonstop flights from toronto to st. petersburg
+atis_flight,a0BB0000002YkERMA0,show me weekday flights from milwaukee to orlando one way
+atis_flight,a0BB0000002YkESMA0,show me weekday flights from milwaukee to orlando one way
+atis_airline,a0BB0000002YkETMA0,what airline is hp
+atis_flight,a0BB0000002YkEUMA0,list flights from chicago to san diego
+atis_flight,a0BB0000002YkEVMA0,list flights from chicago to san diego
+atis_flight,a0BB0000002YkEWMA0,list flights from kansas city to denver
+atis_flight,a0BB0000002YkEXMA0,list flights from denver to phoenix
+atis_flight,a0BB0000002YkEYMA0,list flights from phoenix to las vegas
+atis_flight,a0BB0000002YkEZMA0,list flights from las vegas to san diego
+atis_flight,a0BB0000002YkEaMAK,list flights from chicago to kansas city in the morning
+atis_flight,a0BB0000002YkEbMAK,list flights from houston to san jose
+atis_flight,a0BB0000002YkEcMAK,list flights from houston to milwaukee
+atis_flight,a0BB0000002YkEdMAK,list flights from milwaukee to san jose on wednesday
+atis_flight,a0BB0000002YkEeMAK,list flights from san jose to dallas on friday
+atis_flight,a0BB0000002YkEfMAK,list flights from dallas to houston
+atis_flight,a0BB0000002YkEgMAK,list flights from new york to la
+atis_flight,a0BB0000002YkEhMAK,list flights from la guardia to burbank
+atis_flight,a0BB0000002YkEiMAK,list flights from la to orlando
+atis_flight,a0BB0000002YkEjMAK,list flights from ontario california to orlando
+atis_flight,a0BB0000002YkEkMAK,list flights from ontario california to orlando
+atis_flight,a0BB0000002YkElMAK,list flights from indianapolis to memphis with fares on monday
+atis_flight,a0BB0000002YkEmMAK,list flights from indianapolis to memphis on monday
+atis_flight,a0BB0000002YkEnMAK,list flights from memphis to miami on wednesday
+atis_flight,a0BB0000002YkEoMAK,list flights from miami to indianapolis on sunday
+atis_flight,a0BB0000002YkEpMAK,list flights from charlotte on saturday afternoon
+atis_aircraft,a0BB0000002YkEqMAK,list type of aircraft for all flights from charlotte
+atis_abbreviation,a0BB0000002YkErMAK,what class is fare code q
+atis_flight,a0BB0000002YkEsMAK,list flights from orlando to tacoma on saturday of fare basis code of q
+atis_airfare,a0BB0000002YkEtMAK,list airfares for first class round trip from detroit to st. petersburg
+atis_airfare,a0BB0000002YkEuMAK,list coach round trip airfare from detroit to st. petersburg
+atis_flight,a0BB0000002YkEvMAK,list flights from pittsburgh to newark on monday morning
+atis_flight,a0BB0000002YkEwMAK,list flights from minneapolis to pittsburgh on friday
+atis_flight,a0BB0000002YkExMAK,list flights before 9 am from cincinnati to tampa
+atis_flight,a0BB0000002YkEyMAK,list flights from cincinnati to tampa before noon
+atis_flight,a0BB0000002YkEzMAK,list flights from tampa to cincinnati after 3 pm
+atis_aircraft,a0BB0000002Yk8SMAS,at the charlotte airport how many different types of aircraft are there for us air
+atis_flight,a0BB0000002Yk8TMAS,list all us air flights arriving in charlotte on saturday at 1 pm
+atis_airfare,a0BB0000002Yk8UMAS,what is the first class round trip airfare from india indianapolis to memphis
+atis_flight,a0BB0000002Yk8kMAC,list flights from atlanta to toronto friday afternoon
+atis_flight,a0BB0000002Yk8VMAS,list all flights from memphis to miami
+atis_flight,a0BB0000002Yk8WMAS,list all flights from cleveland to kansas city on monday
+atis_flight,a0BB0000002Yk8XMAS,list all flights from kansas city to cleveland
+atis_flight,a0BB0000002Yk8lMAC,list flights from toronto to washington dc saturday am
+atis_flight,a0BB0000002Yk8YMAS,list all flights from cleveland to nashville
+atis_flight,a0BB0000002Yk8ZMAS,list all flights from nashville to cleveland on sunday
+atis_airline,a0BB0000002Yk8aMAC,what airlines are departing from baltimore
+atis_flight,a0BB0000002Yk8mMAC,list flights from washington dc to philadelphia saturday pm
+atis_airline,a0BB0000002Yk8bMAC,which airlines fly from baltimore to san francisco
+atis_flight,a0BB0000002Yk8cMAC,which flights are leaving from kansas city to atlanta early monday morning
+atis_flight,a0BB0000002Yk8dMAC,which flights are leaving atlanta and arriving in st. louis close to 230 pm on tuesday
+atis_flight,a0BB0000002Yk8nMAC,list direct flights from new york city to los angeles after 10 am
+atis_flight,a0BB0000002Yk8eMAC,please list flights from st. louis to st. paul which depart after 10 am thursday morning
+atis_flight,a0BB0000002Yk8fMAC,list flights from st. paul to kansas city friday in the evening with a meal included
+atis_flight,a0BB0000002Yk8gMAC,list early morning flights from cincinnati to tampa
+atis_flight,a0BB0000002Yk8hMAC,list early evening flights from tampa to cincinnati
+atis_flight,a0BB0000002Yk8iMAC,list evening flights from tampa to cincinnati
+atis_flight,a0BB0000002Yk8jMAC,list flights from philadelphia to atlanta friday am
+atis_abbreviation,a0BB0000002Yk8oMAC,what is fare code m
+atis_flight,a0BB0000002Yk8pMAC,list american airlines flights from houston to milwaukee departing friday pm
+atis_flight,a0BB0000002Yk8qMAC,list flights from houston to milwaukee friday pm
+atis_flight,a0BB0000002Yk8rMAC,list american airlines flights from milwaukee to san jose wednesday
+atis_flight,a0BB0000002Yk8sMAC,list american airlines flights from san jose to dallas friday afternoon
+atis_flight,a0BB0000002Yk8tMAC,list flights from dallas to houston arriving sunday afternoon
+atis_airline,a0BB0000002Yk8uMAC,list airlines flying from seattle to salt lake city
+atis_flight,a0BB0000002Yk8vMAC,list flights from seattle to salt lake city on delta l10
+atis_flight,a0BB0000002Yk8wMAC,list flights from seattle to salt lake city on delta be1
+atis_flight,a0BB0000002Yk8xMAC,list flights from boston to pittsburgh daily
+atis_flight,a0BB0000002Yk8yMAC,list flights from pittsburgh to newark daily
+atis_flight,a0BB0000002Yk8zMAC,list flights from newark to boston daily
+atis_flight,a0BB0000002Yk90MAC,list us air flights leaving saturday from charlotte airport at 1 pm
+atis_flight,a0BB0000002Yk91MAC,list us air flights leaving saturday from charlotte airport around 1 pm
+atis_airfare,a0BB0000002Yk92MAC,list first class airfare round trip from indianapolis to memphis
+atis_airline,a0BB0000002YkF0MAK,list airlines that fly from seattle to salt lake city
+atis_flight,a0BB0000002YkF1MAK,list delta flights from seattle to salt lake city
+atis_flight,a0BB0000002YkF2MAK,list delta flights from seattle to salt lake city with aircraft type
+atis_ground_service,a0BB0000002YkF3MAK,what ground transportation is there in baltimore
+atis_ground_service,a0BB0000002YkF4MAK,list ground transportation in baltimore
+atis_flight,a0BB0000002YkF5MAK,list flights from baltimore to san francisco on friday
+atis_flight,a0BB0000002YkF6MAK,give me the flights from los angeles to pittsburgh on tuesday
+atis_flight,a0BB0000002YkF7MAK,give me the flights from pittsburgh to los angeles thursday evening
+atis_flight,a0BB0000002YkF8MAK,give me the round trip flights from cleveland to miami next wednesday
+atis_airfare,a0BB0000002YkF9MAK,give me the fares for round trip flights from cleveland to miami next wednesday
+atis_flight,a0BB0000002YkFAMA0,give me the flights and fares for a trip to cleveland from miami on wednesday
+atis_airfare,a0BB0000002YkFBMA0,give me the fares from miami to cleveland next sunday
+atis_flight,a0BB0000002YkFCMA0,give me the flights from milwaukee to phoenix on saturday or sunday on american airlines
+atis_flight,a0BB0000002YkFDMA0,give me the flights from phoenix to milwaukee on wednesday evening
+atis_flight,a0BB0000002YkFEMA0,give me the flights from phoenix to milwaukee on wednesday on american airlines
+atis_flight,a0BB0000002YkFFMA0,give me the flights from phoenix to milwaukee on american airlines
+atis_flight,a0BB0000002YkFGMA0,give me the flights from phoenix to milwaukee
+atis_flight,a0BB0000002YkFHMA0,give me the meal flights departing early saturday morning from chicago to seattle nonstop
+atis_flight,a0BB0000002YkFIMA0,give me the flights from chicago to seattle saturday morning that have meals
+atis_flight,a0BB0000002YkFJMA0,give me flights from seattle to chicago that have meals on continental
+atis_flight,a0BB0000002YkFKMA0,give me the flights from seattle to chicago that have meals on continental saturday morning
+atis_flight,a0BB0000002YkFLMA0,give me the flights from chicago to seattle on continental that have meals early saturday morning
+atis_flight,a0BB0000002YkFMMA0,give me a combination of continental flights from chicago to seattle that have meals early saturday morning
+atis_flight,a0BB0000002YkFNMA0,give me the saturday morning flights with meals from chicago to minneapolis
+atis_flight,a0BB0000002YkFOMA0,give me the saturday morning flights on continental that have meals from chicago to minneapolis
+atis_flight,a0BB0000002YkFPMA0,give me the saturday morning flights from chicago to st. paul on continental that have meals
+atis_flight,a0BB0000002YkFQMA0,give me the flights from new york to las vegas nonstop
+atis_flight,a0BB0000002YkFRMA0,give me the flights from memphis to las vegas nonstop
+atis_flight,a0BB0000002YkFSMA0,give me the cheapest round trip flights from indianapolis to orlando around december twenty fifth
+atis_flight,a0BB0000002YkFTMA0,i need a friday flight from newark to tampa
+atis_flight,a0BB0000002YkFUMA0,i need a sunday flight from tampa to charlotte
+atis_flight,a0BB0000002YkFVMA0,give me a flight from charlotte to baltimore on tuesday morning
+atis_flight,a0BB0000002YkFWMA0,can i have a morning flight from baltimore to newark please
+atis_airfare,a0BB0000002YkFXMA0,cheapest round trip fare from or indianapolis to orlando on december twenty fifth
+atis_airfare,a0BB0000002YkFYMA0,cheapest one way fare from indianapolis to orlando on december twenty seventh
+atis_flight,a0BB0000002Yk94MAC,list flights from memphis to miami wednesday evening
+atis_abbreviation,a0BB0000002Yk93MAC,what is fare code f
+atis_flight,a0BB0000002Yk95MAC,list flights from miami to indianapolis sunday
+atis_flight,a0BB0000002Yk96MAC,list flights from ontario california to orlando florida
+atis_flight,a0BB0000002Yk97MAC,list flights from ontario california to salt lake city utah
+atis_flight,a0BB0000002Yk98MAC,list flights from ontario california to salt lake city utah monday
+atis_flight,a0BB0000002Yk99MAC,list flights from salt lake city utah to phoenix arizona monday
+atis_flight,a0BB0000002Yk9AMAS,list flights from salt lake city to phoenix arizona tuesday
+atis_flight,a0BB0000002Yk9BMAS,list flights from phoenix arizona to ontario california wednesday
+atis_airline,a0BB0000002Yk9CMAS,what airlines fly from baltimore to san francisco
+atis_airfare,a0BB0000002Yk9DMAS,what is the fare for a first class round trip ticket from detroit to st. petersburg
+atis_airfare,a0BB0000002Yk9EMAS,what is the airfare for a round trip first class ticket from detroit to st. petersburg
+atis_flight,a0BB0000002Yk9FMAS,kansas city to atlanta monday morning flights
+atis_flight,a0BB0000002Yk9GMAS,monday morning flights from atlanta to kansas city
+atis_flight,a0BB0000002Yk9HMAS,kansas city to atlanta monday morning flights
+atis_flight,a0BB0000002Yk9IMAS,atlanta to st. louis tuesday before 230 pm flights
+atis_flight,a0BB0000002Yk9JMAS,st. louis to st. paul thursday after 10 am
+atis_flight,a0BB0000002Yk9KMAS,st. paul to kansas city friday night
+atis_flight,a0BB0000002Yk9LMAS,cleveland to kansas city arrive monday before 3 pm
+atis_flight,a0BB0000002Yk9MMAS,kansas city to cleveland flight arrive wednesday before 5 pm
+atis_flight,a0BB0000002Yk9NMAS,cleveland to nashville flight friday morning
+atis_flight,a0BB0000002Yk9OMAS,nashville to cleveland sunday before 9
+atis_flight,a0BB0000002Yk9PMAS,first class flights pittsburgh to newark monday morning
+atis_flight,a0BB0000002Yk9QMAS,flights newark to los angeles wednesday morning
+atis_flight,a0BB0000002Yk9RMAS,los angeles to minneapolis thursday afternoon
+atis_flight,a0BB0000002Yk9SMAS,minneapolis to pittsburgh flight
+atis_flight,a0BB0000002Yk9TMAS,minneapolis to pittsburgh first class flight
+atis_flight,a0BB0000002Yk9UMAS,i would like flights leaving from milwaukee to orlando
+atis_abbreviation,a0BB0000002Yk9VMAS,what does hp stand for
+atis_flight,a0BB0000002YkFZMA0,saturday flight on american airlines from milwaukee to phoenix
+atis_airfare,a0BB0000002YkFaMAK,is there a fare from pittsburgh to cleveland under 200 dollars
+atis_airfare,a0BB0000002YkFbMAK,how much is coach flight from pittsburgh to atlanta
+atis_flight,a0BB0000002YkFcMAK,newark to tampa on friday
+atis_flight,a0BB0000002YkFdMAK,tampa to charlotte sunday morning
+atis_flight,a0BB0000002YkFeMAK,charlotte to baltimore on tuesday
+atis_flight,a0BB0000002YkFfMAK,baltimore to newark wednesday morning
+atis_flight,a0BB0000002YkFgMAK,dallas to houston after 1201 am
+atis_flight,a0BB0000002YkFhMAK,houston to dallas before midnight
+atis_flight,a0BB0000002YkFiMAK,indianapolis to orlando december twenty seventh
+atis_airfare,a0BB0000002YkFjMAK,cheapest fare from indianapolis to orlando on the twenty seventh of december
+atis_airfare,a0BB0000002YkFkMAK,cheapest fare round trip from indianapolis to orlando on december twenty seventh
+atis_flight,a0BB0000002YkFlMAK,cleveland to miami on wednesday arriving before 4 pm
+atis_flight,a0BB0000002YkFmMAK,miami to cleveland sunday afternoon
+atis_flight,a0BB0000002YkFnMAK,new york city to las vegas and memphis to las vegas on sunday
+atis_flight,a0BB0000002YkFoMAK,new york city to las vegas and memphis to las vegas on sunday
+atis_flight,a0BB0000002YkFpMAK,new york to las vegas sunday afternoon
+atis_flight,a0BB0000002YkFqMAK,memphis to las vegas sunday afternoon
+atis_flight,a0BB0000002YkFrMAK,new york to las vegas on sunday afternoon
+atis_flight,a0BB0000002YkFsMAK,chicago to seattle saturday morning
+atis_flight,a0BB0000002YkFtMAK,chicago to las vegas saturday morning
+atis_flight,a0BB0000002YkFuMAK,los angeles to pittsburgh afternoon tuesday
+atis_flight,a0BB0000002YkFvMAK,los angeles to pittsburgh afternoon on monday
+atis_flight,a0BB0000002YkFwMAK,pittsburgh to los angeles thursday evening
+atis_flight,a0BB0000002YkHJMA0,what are the flights from memphis to las vegas
+atis_flight,a0BB0000002YkHKMA0,what are the flights from las vegas to ontario
+atis_flight,a0BB0000002YkHLMA0,what are the flights from ontario to memphis
+atis_ground_service,a0BB0000002YkHMMA0,what type of ground transportation is there at the las vegas airport
+atis_ground_service,a0BB0000002YkHNMA0,is there taxi service at the ontario airport
+atis_flight,a0BB0000002YkHOMA0,what are the flights from tampa to milwaukee
+atis_flight,a0BB0000002YkHPMA0,what are the flights from milwaukee to seattle
+atis_flight,a0BB0000002YkHQMA0,what are the flights from la guardia to san jose on united
+atis_flight,a0BB0000002YkHRMA0,what are the flights on mondays that travel from charlotte north carolina to phoenix arizona
+atis_flight,a0BB0000002YkHSMA0,what are the flights from phoenix arizona to st. paul minnesota on tuesday
+atis_flight,a0BB0000002YkHTMA0,what are the flights on thursday leaving from st. paul minnesota to st. louis
+atis_flight,a0BB0000002YkHUMA0,what are the flights from st. louis to charlotte north carolina leaving on friday
+atis_flight,a0BB0000002YkHVMA0,what are the flights from boston to orlando that stop in new york
+atis_flight,a0BB0000002YkHWMA0,i need a morning flight from burbank to milwaukee on next monday
+atis_flight,a0BB0000002Yk9WMAS,i would like flights from ontario to tacoma
+atis_flight,a0BB0000002Yk9XMAS,i would like flights from minneapolis to san diego
+atis_flight,a0BB0000002Yk9YMAS,i would like flights from salt lake city to cincinnati
+atis_flight,a0BB0000002Yk9ZMAS,i would like to see flights from cincinnati to salt lake city
+atis_flight,a0BB0000002Yk9aMAC,i'd like flights from new york to miami
+atis_flight,a0BB0000002Yk9bMAC,i would like flights from miami to new york
+atis_flight,a0BB0000002Yk9cMAC,i would like a flight leaving san francisco for san diego
+atis_flight,a0BB0000002Yk9dMAC,i would like flights from san diego to las vegas
+atis_flight,a0BB0000002Yk9eMAC,i would like a flight from san diego to las vegas
+atis_flight,a0BB0000002Yk9fMAC,i would like flights from las vegas to san francisco
+atis_abbreviation,a0BB0000002Yk9gMAC,what does fare code bn mean
+atis_airline,a0BB0000002Yk9hMAC,i would like to have the airline that flies toronto detroit and st. louis
+atis_flight,a0BB0000002Yk9iMAC,i would like a flight from toronto to detroit
+atis_flight,a0BB0000002YkC0MAK,list flights from washington dc to toronto
+atis_flight,a0BB0000002YkC1MAK,list flights from toronto to washington dc
+atis_flight,a0BB0000002YkC2MAK,list flights from oakland to salt lake city
+atis_flight,a0BB0000002YkC3MAK,what flights go from dallas to phoenix
+atis_flight,a0BB0000002YkC4MAK,what flights go from phoenix to salt lake city
+atis_flight,a0BB0000002YkC5MAK,i need an early flight from milwaukee to denver
+atis_ground_service,a0BB0000002YkC6MAK,what types of ground transportation are available in denver
+atis_flight,a0BB0000002YkC7MAK,what flights go from denver to st. louis on tuesday morning
+atis_ground_service,a0BB0000002YkC8MAK,is ground transportation available in st. louis
+atis_flight,a0BB0000002YkC9MAK,i need to fly from st. louis to milwaukee on wednesday afternoon
+atis_flight,a0BB0000002YkCAMA0,flights from washington to seattle
+atis_flight,a0BB0000002YkCBMA0,flights from atlanta to seattle
+atis_flight,a0BB0000002YkCCMA0,flights from san diego to seattle
+atis_flight,a0BB0000002YkCDMA0,i would like flight information from phoenix to denver
+atis_flight,a0BB0000002YkCEMA0,could i have flight information on flights from salt lake city to phoenix please
+atis_flight,a0BB0000002YkCFMA0,could i have flight information on flights from pittsburgh to phoenix please
+atis_flight,a0BB0000002YkHXMA0,how about a flight from milwaukee to st. louis that leaves monday night
+atis_flight,a0BB0000002YkHYMA0,and a flight from st. louis to burbank that leaves tuesday afternoon
+atis_flight,a0BB0000002YkHZMA0,how about a flight leaving tuesday night from st. louis to burbank
+atis_flight,a0BB0000002YkHaMAK,i need a flight from salt lake to newark airport that arrives on saturday before 6 pm
+atis_flight,a0BB0000002YkHbMAK,i'd like a flight from cincinnati to newark airport that arrives on saturday before 6 pm
+atis_flight,a0BB0000002YkHcMAK,i need a flight on american airlines from miami to chicago that arrives around 5 pm
+atis_flight,a0BB0000002YkHdMAK,i need a flight from memphis to tacoma that goes through los angeles
+atis_flight,a0BB0000002YkHeMAK,what are the flights between cincinnati and san jose california which leave after 6 pm
+atis_flight,a0BB0000002YkHfMAK,what are the nonstop flights between san jose and houston texas
+atis_flight,a0BB0000002YkHgMAK,what are the nonstop flights between houston and memphis
+atis_flight,a0BB0000002YkHhMAK,what are the flights between memphis and cincinnati on wednesday
+atis_flight,a0BB0000002YkHiMAK,what are the american flights from newark to nashville
+atis_flight,a0BB0000002YkHjMAK,the flights from ontario to westchester that stop in chicago
+atis_flight,a0BB0000002YkHkMAK,please list the flights from los angeles to charlotte
+atis_flight,a0BB0000002YkHlMAK,please list the flights from charlotte to newark
+atis_flight,a0BB0000002YkHmMAK,please list the flights from newark to los angeles
+atis_flight,a0BB0000002YkHnMAK,please list the flights from cincinnati to burbank on american airlines
+atis_flight,a0BB0000002YkHoMAK,please give me the flights from kansas city to chicago on june sixteenth
+atis_flight,a0BB0000002YkHpMAK,please give me the flights from chicago to kansas city on june seventeenth
+atis_flight,a0BB0000002YkHqMAK,please list all the flights from kansas city to chicago on june sixteenth
+atis_flight,a0BB0000002YkHrMAK,please list all the flights from chicago to kansas city on june seventeenth
+atis_flight,a0BB0000002YkHsMAK,i'd like to travel from burbank to milwaukee
+atis_flight,a0BB0000002YkHtMAK,can you find me a flight from salt lake city to new york city next saturday before arriving before 6 pm
+atis_flight,a0BB0000002YkHuMAK,can you find me another flight from cincinnati to new york on saturday before 6 pm
+atis_flight,a0BB0000002YkHvMAK,can you list all of the delta flights from salt lake city to new york next saturday arriving before 6 pm
+atis_flight,a0BB0000002YkHwMAK,i'd like to fly from miami to chicago on on american airlines arriving around 5 pm
+atis_flight,a0BB0000002YkHxMAK,i'd like to travel from kansas city to chicago next wednesday
+atis_flight,a0BB0000002YkHyMAK,i'd like a round trip flight from kansas city to chicago on wednesday may twenty sixth arriving at 7 pm
+atis_flight,a0BB0000002YkHzMAK,yes i'd like to find a flight from memphis to tacoma stopping in los angeles
+atis_flight,a0BB0000002YkI0MAK,find flight from san diego to phoenix on monday am
+atis_flight,a0BB0000002YkI1MAK,find flight from phoenix to detroit on monday
+atis_flight,a0BB0000002YkI2MAK,find flight from detroit to san diego on tuesday
+atis_flight,a0BB0000002YkI3MAK,find flight from cincinnati to san jose on monday
+atis_flight,a0BB0000002YkI4MAK,find flight from san jose to houston on wednesday
+atis_flight,a0BB0000002YkI5MAK,find flight from houston to memphis on friday
+atis_flight,a0BB0000002Yk5VMAS,i would like to find a flight from charlotte to las vegas that makes a stop in st. louis
+atis_airfare,a0BB0000002Yk5WMAS,on april first i need a ticket from tacoma to san jose departing before 7 am
+atis_flight,a0BB0000002Yk5XMAS,on april first i need a flight going from phoenix to san diego
+atis_flight,a0BB0000002Yk5YMAS,i would like a flight traveling one way from phoenix to san diego on april first
+atis_flight,a0BB0000002Yk5ZMAS,i would like a flight from orlando to salt lake city for april first on delta airlines
+atis_flight,a0BB0000002Yk5aMAC,i need a flight from toronto to newark one way leaving wednesday evening or thursday morning
+atis_flight,a0BB0000002Yk5bMAC,monday morning i would like to fly from columbus to indianapolis
+atis_flight,a0BB0000002Yk5cMAC,on wednesday april sixth i would like to fly from long beach to columbus after 3 pm
+atis_flight,a0BB0000002Yk9kMAC,i would like a flight from toronto to st. louis
+atis_flight,a0BB0000002Yk9lMAC,i would like flights from san francisco to long beach
+atis_flight,a0BB0000002Yk9jMAC,i would like a flight from detroit to st. louis
+atis_flight,a0BB0000002Yk9mMAC,i would like flights leaving san francisco to san diego
+atis_flight,a0BB0000002Yk9nMAC,i would like a flight from san francisco to st. petersburg
+atis_flight,a0BB0000002Yk9oMAC,show me a one way flight from milwaukee to orlando leaving wednesday afternoon after 6 pm
+atis_flight,a0BB0000002Yk9pMAC,show me one way flights from milwaukee to orlando on wednesday
+atis_flight,a0BB0000002Yk9qMAC,show me flights from columbus to chicago first class that leave before 10 am
+atis_flight,a0BB0000002Yk9rMAC,show me the cheapest round trip between st. petersburg and detroit that arrives before 7 pm
+atis_flight,a0BB0000002Yk9sMAC,show me nonstop flights from kansas city to phoenix
+atis_airline,a0BB0000002Yk9tMAC,what is airline wn
+atis_flight,a0BB0000002Yk9uMAC,show me the cheapest first class round trip from new york to miami
+atis_flight,a0BB0000002Yk9vMAC,now show me all the round trips from new york to miami
+atis_flight,a0BB0000002Yk9wMAC,show me the cheapest one way flight from san francisco to houston
+atis_flight,a0BB0000002Yk9xMAC,now show me the cheapest one way flight from houston to boston
+atis_airfare,a0BB0000002Yk9yMAC,show me the cheapest round trip fares from houston to boston
+atis_airfare,a0BB0000002Yk9zMAC,show me the cheapest round trip fares from san francisco to houston
+atis_airfare,a0BB0000002YkA0MAK,show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994
+atis_airfare,a0BB0000002YkA1MAK,show me the cheapest one way fare from san francisco to houston on february twenty eighth 1994
+atis_ground_service,a0BB0000002YkA2MAK,now show me ground transportation in houston on monday afternoon
+atis_flight,a0BB0000002YkA3MAK,now show me one way flights from houston to boston
+atis_ground_service,a0BB0000002YkA4MAK,and now show me ground transportation that i could get in boston late night
+atis_airline,a0BB0000002YkA5MAK,show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto
+atis_airfare,a0BB0000002YkA6MAK,show me round trip fares from toronto to detroit on delta northwest us air and united airlines
+atis_flight,a0BB0000002YkA7MAK,show me flights between detroit and st. louis on delta northwest us air and united airlines
+atis_flight,a0BB0000002YkA8MAK,show me flights from montreal to orlando and long beach
+atis_flight,a0BB0000002YkA9MAK,show me flights from montreal to orlando
+atis_flight,a0BB0000002YkCHMA0,i need information on flights from washington to boston that leave on a saturday
+atis_flight,a0BB0000002YkCGMA0,i would like information on flights leaving from washington dc to denver
+atis_flight,a0BB0000002YkCIMA0,i need the flights from washington to montreal on a saturday
+atis_airfare,a0BB0000002YkCJMA0,i need the fares on flights from washington to toronto on a saturday
+atis_flight,a0BB0000002YkCKMA0,i want to go from boston to washington on a saturday
+atis_flight,a0BB0000002YkCLMA0,i need a flight from cleveland to dallas that leaves before noon see if too much information
+atis_airfare,a0BB0000002YkCMMA0,get fares from washington to boston
+atis_airfare,a0BB0000002YkCNMA0,get saturday fares from washington to boston
+atis_airfare,a0BB0000002YkCOMA0,get fares from washington to montreal
+atis_airfare,a0BB0000002YkCPMA0,get saturday fares from washington to montreal
+atis_airfare,a0BB0000002YkCQMA0,get saturday fares from washington to toronto
+atis_airfare,a0BB0000002YkCRMA0,get the saturday fare from washington to toronto
+atis_flight,a0BB0000002YkCSMA0,list saturday flights from washington to boston
+atis_flight,a0BB0000002YkCTMA0,list saturday flights from boston to washington
+atis_flight,a0BB0000002YkCUMA0,get flights from milwaukee to dtw
+atis_flight,a0BB0000002YkCVMA0,list flights from milwaukee to detroit
+atis_flight,a0BB0000002YkCWMA0,get flights from detroit to toronto
+atis_flight,a0BB0000002YkCXMA0,get flights from toronto to milwaukee
+atis_flight,a0BB0000002YkCYMA0,get last flight from oakland to salt lake city on wednesday or first flight from oakland to salt lake city on thursday
+atis_flight,a0BB0000002YkCZMA0,get first flight from oakland to salt lake city on thursday
+atis_flight,a0BB0000002YkCaMAK,get last flight from oakland to salt lake city on wednesday
+atis_flight,a0BB0000002YkCbMAK,list last wednesday flight from oakland to salt lake city
+atis_flight,a0BB0000002YkCcMAK,get flight from toronto to san diego stopping at dtw
+atis_flight,a0BB0000002YkCdMAK,get flights between st. petersburg and charlotte
+atis_flight,a0BB0000002YkCeMAK,i need a flight from milwaukee to indianapolis leaving monday before 9 am
+atis_flight,a0BB0000002YkCfMAK,i need a flight departing from milwaukee to indianapolis leaving monday before 8 am
+atis_ground_service,a0BB0000002YkCgMAK,is there ground transportation available at the indianapolis airport
+atis_flight,a0BB0000002YkChMAK,i need flight information for a flight departing from indianapolis to cleveland departing tuesday at noon
+atis_flight,a0BB0000002YkCiMAK,i need flight information for a flight departing from cleveland to milwaukee wednesday after 6 pm
+atis_flight,a0BB0000002YkCjMAK,i need flight information for flights departing from cleveland going back to milwaukee wednesday after 5 pm
+atis_flight,a0BB0000002YkCkMAK,i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm
+atis_flight,a0BB0000002YkClMAK,i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm
+atis_flight,a0BB0000002YkFyMAK,phoenix to milwaukee on sunday
+atis_flight,a0BB0000002YkFzMAK,phoenix to milwaukee on wednesday
+atis_flight,a0BB0000002YkFxMAK,milwaukee to phoenix on saturday
+atis_flight,a0BB0000002YkG0MAK,a flight from baltimore to san francisco arriving between 5 and 8 pm
+atis_flight,a0BB0000002YkG1MAK,how many northwest flights leave st. paul
+atis_flight,a0BB0000002YkG2MAK,how many northwest flights leave washington dc
+atis_flight,a0BB0000002YkG3MAK,how many flights does northwest have leaving dulles
+atis_flight,a0BB0000002YkG4MAK,i would like a connecting flight from dallas to san francisco leaving after 4 o'clock
+atis_flight,a0BB0000002YkG5MAK,please list all the flights from dallas to san francisco
+atis_flight,a0BB0000002YkG6MAK,tell me again the morning flights on american airlines from philadelphia to dallas
+atis_flight,a0BB0000002YkG7MAK,tell me the flights that leave philadelphia and go to dallas
+atis_abbreviation,a0BB0000002YkG8MAK,what is a d9s
+atis_aircraft,a0BB0000002YkG9MAK,what type of plane is a d9s
+atis_abbreviation,a0BB0000002YkGAMA0,what is a d9s
+atis_flight,a0BB0000002YkGBMA0,show me the first class and coach flights between jfk and orlando
+atis_flight,a0BB0000002YkGCMA0,show me the first class and coach flights from kennedy airport to miami
+atis_flight,a0BB0000002YkGDMA0,show me the first class and coach flights from jfk to miami
+atis_flight,a0BB0000002YkGEMA0,show delta airlines flights from jfk to miami
+atis_flight,a0BB0000002YkGFMA0,show delta airlines from boston to salt lake
+atis_flight,a0BB0000002YkGGMA0,show delta airlines flights from boston to salt lake
+atis_flight,a0BB0000002YkI7MAK,find american flight from newark to nashville around 630 pm
+atis_flight,a0BB0000002YkI8MAK,please find a flight round trip from los angeles to tacoma washington with a stopover in san francisco not exceeding the price of 300 dollars for june tenth 1993
+atis_flight,a0BB0000002YkI6MAK,find flight from memphis to cincinnati on sunday
+atis_flight,a0BB0000002YkI9MAK,are there any flights on june tenth from burbank to tacoma
+atis_flight,a0BB0000002YkIAMA0,please find a flight from ontario to westchester that makes a stop in chicago on may seventeenth one way with dinner
+atis_flight,a0BB0000002YkIBMA0,like to book a flight from burbank to milwaukee
+atis_flight,a0BB0000002YkICMA0,show me all the flights from burbank to milwaukee
+atis_flight,a0BB0000002YkCmMAK,i need a flight from denver to salt lake city on monday
+atis_ground_service,a0BB0000002YkCnMAK,is there ground transportation available at the denver airport
+atis_ground_service,a0BB0000002YkCoMAK,is there ground transportation available at the salt lake city airport
+atis_flight,a0BB0000002YkCpMAK,i need a flight from salt lake city to phoenix departing wednesday after 5 pm
+atis_ground_service,a0BB0000002YkCqMAK,is there ground transportation available at the phoenix airport
+atis_flight,a0BB0000002YkCrMAK,i need a flight from oakland to salt lake city on wednesday departing after 6 pm
+atis_flight,a0BB0000002YkCsMAK,list flights from las vegas to phoenix
+atis_flight,a0BB0000002YkCtMAK,list wednesday night flights from oakland to salt lake city
+atis_flight,a0BB0000002YkCuMAK,list flights from oakland to salt lake city before 6 am thursday morning
+atis_airline,a0BB0000002YkCvMAK,which airlines fly between toronto and san diego
+atis_flight,a0BB0000002YkCwMAK,please list afternoon flights between st. petersburg and charlotte
+atis_abbreviation,a0BB0000002YkCxMAK,what is tpa
+atis_flight,a0BB0000002YkCyMAK,what are the flights from cleveland to dallas
+atis_flight,a0BB0000002YkCzMAK,please list only the flights from cleveland to dallas that leave before noon
+atis_aircraft,a0BB0000002YkD0MAK,what type of aircraft are flying from cleveland to dallas before noon
+atis_flight,a0BB0000002YkD1MAK,i need information on flights from indianapolis to seattle
+atis_flight,a0BB0000002YkD2MAK,i need a flight from memphis to seattle
+atis_airfare,a0BB0000002YkD3MAK,i need a ticket from nashville to seattle
+atis_airfare,a0BB0000002YkD4MAK,i need a ticket from nashville tennessee to seattle
+atis_airfare,a0BB0000002YkGIMA0,what are the fares for flights between boston and washington dc
+atis_airfare,a0BB0000002YkGJMA0,what is the least expensive fare from boston to salt lake city
+atis_flight,a0BB0000002YkGHMA0,show delta airlines flights from boston to salt lake city
+atis_airfare,a0BB0000002YkGKMA0,what are the lowest fares from washington dc to salt lake city
+atis_airfare,a0BB0000002YkGLMA0,what is the lowest fare from bwi to salt lake city
+atis_airfare,a0BB0000002YkGMMA0,show me the cost of a first class ticket from detroit to las vegas and back
+atis_flight,a0BB0000002YkGNMA0,what is the earliest arriving flight from boston to washington dc
+atis_flight,a0BB0000002YkGOMA0,what is the earliest arriving flight between boston and washington dc
+atis_flight,a0BB0000002YkGPMA0,what's the earliest arriving flight between boston and washington dc
+atis_flight,a0BB0000002YkGQMA0,what is the earliest arriving flight from houston to orlando
+atis_flight,a0BB0000002YkGRMA0,what is the earliest arriving flight from houston to orlando
+atis_flight,a0BB0000002YkGSMA0,show me the flights between houston and orlando
+atis_flight,a0BB0000002YkGTMA0,show me the flights between houston and orlando
+atis_flight,a0BB0000002YkGUMA0,show me the flights from houston to orlando
+atis_flight,a0BB0000002YkGVMA0,list all flights leaving denver between 8 pm and 9 pm
+atis_airline,a0BB0000002YkGWMA0,what airlines serve denver
+atis_airline,a0BB0000002YkGXMA0,list the airlines with flights to or from denver
+atis_airline,a0BB0000002YkGYMA0,what airlines fly into denver
+atis_flight,a0BB0000002YkGZMA0,list all flights arriving in denver between 8 and 9 pm
+atis_abbreviation,a0BB0000002YkGaMAK,what is 73s
+atis_flight,a0BB0000002YkGbMAK,list all of the daily flights arriving in denver between 8 and 9 pm
+atis_flight,a0BB0000002YkGcMAK,list all of the daily flights arriving in denver from 8 to 9 pm
+atis_flight,a0BB0000002YkGdMAK,show me all of the daily flights arriving in denver between 8 pm and 9 pm
+atis_aircraft,a0BB0000002YkGeMAK,tell me about the m80 aircraft
+atis_aircraft,a0BB0000002YkGfMAK,tell me about the m80 aircraft
+atis_aircraft,a0BB0000002YkGgMAK,tell me about the type of aircraft called an m80
+atis_flight,a0BB0000002YkGhMAK,list all flights arriving or leaving denver between 8 and 9 pm
+atis_flight,a0BB0000002YkGiMAK,list all flights arriving in denver between 8 and 9 pm
+atis_flight,a0BB0000002YkGjMAK,list all flights on all types of aircraft arriving in denver between 8 and 9 pm
+atis_flight,a0BB0000002YkGkMAK,please list all flights from nashville to memphis on monday morning
+atis_flight,a0BB0000002YkGlMAK,please list the flights from nashville to memphis on monday morning
+atis_ground_service,a0BB0000002YkGmMAK,is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning
+atis_flight,a0BB0000002YkGnMAK,please list the flights from memphis to new york city on a monday night
+atis_abbreviation,a0BB0000002YkGoMAK,what is cvg
+atis_ground_service,a0BB0000002YkGpMAK,what ground transportation is available from la guardia airport into new york city
+atis_ground_service,a0BB0000002YkGqMAK,is there ground transportation from lga into new york city
+atis_ground_service,a0BB0000002YkGrMAK,please list the ground transportation from lga into new york city
+atis_airfare,a0BB0000002YkH6MAK,list the cheapest fare from charlotte to las vegas
+atis_flight,a0BB0000002YkH7MAK,i want a flight from los angeles to charlotte early in the morning
+atis_flight,a0BB0000002Yk5eMAC,are there any flights from long beach to columbus on wednesday april sixth
+atis_flight,a0BB0000002Yk5dMAC,after 12 pm on wednesday april sixth i would like to fly from long beach to columbus
+atis_flight,a0BB0000002Yk5fMAC,find a flight from memphis to tacoma dinner
+atis_flight,a0BB0000002Yk5gMAC,on next wednesday flight from kansas city to chicago should arrive in chicago around 7 pm return flight on thursday
+atis_flight,a0BB0000002Yk5hMAC,flight on american from miami to chicago arrive in chicago about 5 pm
+atis_flight,a0BB0000002Yk5iMAC,find flights arriving new york city next saturday
+atis_flight,a0BB0000002Yk5jMAC,find nonstop flights from salt lake city to new york on saturday april ninth
+atis_flight,a0BB0000002Yk5kMAC,show flights from burbank to milwaukee for today
+atis_flight,a0BB0000002Yk5lMAC,show flights tomorrow evening from milwaukee to st. louis
+atis_flight,a0BB0000002Yk5mMAC,show flights saturday evening from st. louis to burbank
+atis_flight,a0BB0000002Yk5nMAC,show flights from burbank to st. louis on monday
+atis_flight,a0BB0000002Yk5oMAC,show flights from burbank to milwaukee on monday
+atis_flight,a0BB0000002Yk5pMAC,show flights tuesday evening from milwaukee to st. louis
+atis_flight,a0BB0000002Yk5qMAC,show flights wednesday evening from st. louis to burbank
+atis_flight,a0BB0000002Yk5rMAC,which flights travel from kansas city to los angeles
+atis_flight,a0BB0000002Yk5sMAC,what flights travel from las vegas to los angeles
+atis_flight,a0BB0000002Yk5tMAC,which flights travel from kansas city to los angeles on april ninth
+atis_flight,a0BB0000002Yk5uMAC,which flights travel from las vegas to los angeles california and arrive on april ninth between 4 and 5 pm
+atis_flight,a0BB0000002Yk5vMAC,which flights on us air go from orlando to cleveland
+atis_flight,a0BB0000002Yk5wMAC,which flights travel from cleveland to indianapolis on april fifth
+atis_flight,a0BB0000002Yk5xMAC,which flights travel from indianapolis to san diego on april fifth
+atis_flight,a0BB0000002Yk5yMAC,which flights go from cleveland to indianapolis on april fifth
+atis_flight,a0BB0000002Yk5zMAC,which flights travel from nashville to tacoma
+atis_ground_service,a0BB0000002Yk60MAC,does tacoma airport offer transportation from the airport to the downtown area
+atis_flight,a0BB0000002Yk61MAC,which flights travel from tacoma to san jose
+atis_flight,a0BB0000002Yk62MAC,what are the flights from tacoma to san jose
+atis_flight,a0BB0000002Yk63MAC,what are the flights from tacoma to san jose
+atis_flight,a0BB0000002Yk64MAC,i need a flight that goes from boston to orlando
+atis_flight,a0BB0000002Yk65MAC,are there any flights from boston to orlando connecting in new york
+atis_flight,a0BB0000002Yk66MAC,are there any flights from boston to orlando connecting in columbus
+atis_flight,a0BB0000002Yk67MAC,does this flight serve dinner
+atis_flight,a0BB0000002Yk68MAC,i need a flight from charlotte to miami
+atis_flight,a0BB0000002Yk69MAC,i need a nonstop flight from miami to toronto
+atis_flight,a0BB0000002Yk6AMAS,i need a nonstop flight from toronto to st. louis
+atis_flight,a0BB0000002Yk6BMAS,i need a flight from toronto to st. louis
+atis_flight,a0BB0000002Yk6CMAS,i need a flight from st. louis to charlotte
+atis_flight,a0BB0000002Yk6DMAS,i need a flight on united airlines from la guardia to san jose
+atis_flight,a0BB0000002YkABMA0,i need a flight from new york to los angeles on saturday evening on us air
+atis_flight,a0BB0000002YkACMA0,i'd like a red eye flight from new york to los angeles on saturday evening on us air
+atis_flight,a0BB0000002YkAAMA0,i need a flight on friday afternoon in june from new york to cleveland
+atis_flight,a0BB0000002YkADMA0,i'd like a flight from new york to los angeles on saturday morning on us air
+atis_flight,a0BB0000002YkAEMA0,i need a flight from san francisco to milwaukee on monday morning
+atis_abbreviation,a0BB0000002YkAFMA0,what does ua mean
+atis_flight,a0BB0000002YkAGMA0,i need a flight from milwaukee to washington dc on monday night
+atis_flight,a0BB0000002YkAHMA0,how about flights from milwaukee to washington dc on tuesday mornings
+atis_ground_service,a0BB0000002YkAIMA0,i'll need to rent a car in washington dc
+atis_flight,a0BB0000002YkAJMA0,can i get a flight on tuesday night from washington dc to oakland
+atis_flight,a0BB0000002YkAKMA0,how about from dc to oakland on wednesday morning
+atis_airfare,a0BB0000002YkALMA0,how much does it cost to fly on twa from columbus to milwaukee
+atis_abbreviation,a0BB0000002YkAMMA0,what does q mean
+atis_airfare,a0BB0000002YkANMA0,how much does it cost to fly from columbus to st. louis round trip on twa
+atis_flight,a0BB0000002YkAOMA0,what's the cheapest flight from columbus to st. louis round trip on twa
+atis_flight,a0BB0000002YkAPMA0,what's the cheapest round trip flight on twa from columbus to st. paul
+atis_flight,a0BB0000002YkAQMA0,i want to fly from milwaukee to los angeles
+atis_flight,a0BB0000002YkARMA0,can i get the shortest flight from milwaukee to orlando
+atis_flight,a0BB0000002YkASMA0,what is the shortest flight from milwaukee to long beach
+atis_abbreviation,a0BB0000002YkATMA0,what does m mean
+atis_abbreviation,a0BB0000002YkAUMA0,what does ap 57 mean
+atis_flight,a0BB0000002YkAVMA0,what is the shortest flight from milwaukee to st. petersburg
+atis_flight,a0BB0000002YkAWMA0,what is the shortest flight from milwaukee to long beach
+atis_flight,a0BB0000002YkAXMA0,what is the shortest flight from milwaukee to san diego
+atis_abbreviation,a0BB0000002YkAYMA0,what does ap 20 mean
+atis_flight,a0BB0000002YkAZMA0,can i get a flight today from san francisco to detroit michigan
+atis_flight,a0BB0000002YkAaMAK,what's the cheapest flight from san francisco to detroit today
+atis_flight,a0BB0000002YkAbMAK,i want to fly from san francisco to milwaukee and from milwaukee to denver
+atis_flight,a0BB0000002YkAcMAK,what's the cheapest flight from san francisco to milwaukee
+atis_ground_service,a0BB0000002YkAdMAK,i need to rent a car in milwaukee
+atis_flight,a0BB0000002YkAeMAK,what's the cheapest flight tomorrow from milwaukee to denver
+atis_ground_service,a0BB0000002YkAfMAK,what ground transportation is available at denver
+atis_flight,a0BB0000002YkAgMAK,what's the cheapest flight from san francisco to denver
+atis_flight,a0BB0000002YkAhMAK,what flights leave from cleveland and go to dallas
+atis_flight,a0BB0000002YkAiMAK,show me all nonstop flights from st. petersburg to charlotte
+atis_airline,a0BB0000002YkAjMAK,what airline is us
+atis_flight,a0BB0000002YkAkMAK,show me flights between toronto and san diego
+atis_abbreviation,a0BB0000002YkAlMAK,what is phl
+atis_flight,a0BB0000002YkH3MAK,list all alaska airlines flights
+atis_ground_service,a0BB0000002YkGsMAK,please list ground transportation from ewr into new york city
+atis_flight,a0BB0000002YkGtMAK,show me the morning flights from memphis to new york city
+atis_flight,a0BB0000002YkGuMAK,give me the flights from new york city to nashville leaving after 5 pm on wednesday
+atis_flight,a0BB0000002YkH4MAK,list all flights departing from seattle
+atis_ground_service,a0BB0000002YkGvMAK,tell me about the ground transportation from nashville airport
+atis_flight,a0BB0000002YkGwMAK,what are the nonstop flights from cincinnati to charlotte leaving after noon and arriving before 7 pm
+atis_flight,a0BB0000002YkGxMAK,how many flights does alaska airlines have to burbank
+atis_flight,a0BB0000002YkGyMAK,list the alaska airline flights from burbank to anywhere
+atis_flight,a0BB0000002YkGzMAK,list the alaska airline flights from burbank
+atis_airline,a0BB0000002YkH0MAK,which airline is as
+atis_flight,a0BB0000002YkH1MAK,list the alaska airlines flights arriving in burbank
+atis_flight,a0BB0000002YkH2MAK,list the alaska airlines flights a departing from burbank
+atis_flight,a0BB0000002YkH5MAK,list the flights from indianapolis to memphis that leave before noon
+atis_flight,a0BB0000002YkH8MAK,i would like a morning flight from charlotte to newark
+atis_flight,a0BB0000002YkH9MAK,i'd like a morning flight from newark to los angeles
+atis_flight,a0BB0000002YkHAMA0,i'd like an evening flight from newark to los angeles
+atis_flight,a0BB0000002YkHBMA0,i would like a flight that leaves on sunday from montreal quebec to san diego california
+atis_flight,a0BB0000002YkHCMA0,i would like a flight on tuesday which leaves from san diego to indianapolis indiana and that leaves in the afternoon
+atis_flight,a0BB0000002YkHDMA0,i would like to leave thursday morning from indianapolis to toronto
+atis_flight,a0BB0000002YkHEMA0,i would like a flight on friday morning from toronto to montreal
+atis_flight,a0BB0000002YkHFMA0,i would like a flight from cincinnati to burbank on american
+atis_aircraft,a0BB0000002YkHGMA0,what type of aircraft is used for the american flight leaving at 419 pm
+atis_flight,a0BB0000002YkHHMA0,i need a flight leaving kansas city to chicago leaving next wednesday and returning the following day
+atis_flight,a0BB0000002YkHIMA0,what flights go from long beach to st. louis
+atis_flight,a0BB0000002Yk6EMAS,i need a flight from tampa to milwaukee
+atis_flight,a0BB0000002Yk6FMAS,i need a flight from milwaukee to seattle
+atis_flight,a0BB0000002Yk6GMAS,i need a flight from memphis to las vegas
+atis_flight,a0BB0000002Yk6HMAS,i need a flight from las vegas to ontario
+atis_flight,a0BB0000002Yk6IMAS,i need a flight from ontario to memphis
+atis_flight,a0BB0000002Yk6JMAS,which flights go from milwaukee to tampa and stop in nashville
+atis_flight,a0BB0000002Yk6KMAS,which flights leave newark after noon next saturday and arrive in los angeles
+atis_flight,a0BB0000002Yk6LMAS,which flights leave detroit and arrive at st. petersburg around 9 am
+atis_flight,a0BB0000002Yk6MMAS,which flights on northwest airline leave detroit and arrive at st. petersburg
+atis_flight,a0BB0000002Yk6NMAS,which flights leave chicago next tuesday and arrive in detroit around 6 pm
+atis_flight,a0BB0000002YkD5MAK,i need flight information from milwaukee to tampa
+atis_ground_service,a0BB0000002YkD6MAK,i need to rent a car at tampa
+atis_flight,a0BB0000002YkD7MAK,i need a daily flight from st. louis to milwaukee
+atis_flight,a0BB0000002YkD8MAK,i need flights departing from oakland and arriving salt lake city
+atis_flight,a0BB0000002YkD9MAK,i need information on flights from toronto to san diego
+atis_flight,a0BB0000002YkDAMA0,i need information on flights from toronto to san diego
+atis_flight,a0BB0000002YkDBMA0,i want a flight from toronto to san diego
+atis_flight,a0BB0000002YkDCMA0,i need information on flights between st. petersburg and charlotte
+atis_flight,a0BB0000002YkDDMA0,which flights go from new york to miami and back
+atis_abbreviation,a0BB0000002YkDEMA0,what does fare code qo mean
+atis_flight,a0BB0000002YkDFMA0,show me flights from milwaukee to orlando one way
+atis_abbreviation,a0BB0000002YkDGMA0,what the abbreviation us stand for
+atis_airfare,a0BB0000002YkDHMA0,i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning
+atis_flight,a0BB0000002YkDIMA0,show me flights from milwaukee to orlando
+atis_abbreviation,a0BB0000002YkDJMA0,what does fare code f mean
+atis_abbreviation,a0BB0000002YkDKMA0,what does fare code h mean
+atis_abbreviation,a0BB0000002YkDLMA0,what does fare code y mean
+atis_abbreviation,a0BB0000002YkDMMA0,what are restrictions ap 57
+atis_flight,a0BB0000002YkDNMA0,please show me first class flights from indianapolis to memphis one way leaving before 10 am
+atis_flight,a0BB0000002YkDOMA0,now show me all round trip flights from burbank to seattle that arrive before 7 pm in seattle
+atis_flight,a0BB0000002YkDPMA0,round trip flights from orlando to montreal please
+atis_airline,a0BB0000002YkDQMA0,what airline is dl
+atis_flight,a0BB0000002YkDRMA0,show me all delta airlines flights from montreal to orlando
+atis_flight,a0BB0000002YkDSMA0,show me all flights from orlando to montreal please
+atis_airline,a0BB0000002YkDTMA0,which airline is kw
+atis_flight,a0BB0000002YkDUMA0,please list all flights from new york to miami any any type of class
+atis_abbreviation,a0BB0000002YkDVMA0,what does fare code bh mean
+atis_flight,a0BB0000002YkDWMA0,show me a return flight from miami to jfk please
+atis_abbreviation,a0BB0000002YkDXMA0,what does fare code bh mean
+atis_abbreviation,a0BB0000002YkDYMA0,what does fare code bh mean
+atis_abbreviation,a0BB0000002YkDZMA0,what does fare code bh mean
+atis_abbreviation,a0BB0000002YkDaMAK,what does fare code bh mean
+atis_flight,a0BB0000002YkDbMAK,show me one way flights from milwaukee to orlando after 6 pm on wednesday
+atis_flight,a0BB0000002YkDcMAK,show me the flights from indianapolis to memphis
+atis_flight,a0BB0000002YkDdMAK,show me round trip flights from burbank to seattle
+atis_flight,a0BB0000002YkDeMAK,show me round trip flights from orlando to montreal
+atis_flight,a0BB0000002YkDfMAK,show me nonstop flights from montreal to orlando
+atis_flight,a0BB0000002YkDgMAK,show me round trips between montreal and orlando
+atis_flight,a0BB0000002YkDhMAK,show me round trip flights from montreal to orlando
