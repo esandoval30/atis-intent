@@ -18,7 +18,7 @@ basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'
 sfdx shane:ai:playground:setupHeroku --verbose -a `basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'` -k 
 
 #Upload ATIS dataset and train an intent classification model on it
-sfdx shane:ai:dataset:upload -f data/ATIS-intent-training.csv -n AtisDataset --train
+sfdx shane:ai:dataset:upload -f data/ATIS-intent-training.csv
 
 #open the scratch org
 sfdx force:org:open -p /lightning/setup/SetupOneHome/home
