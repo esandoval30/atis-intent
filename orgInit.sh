@@ -8,8 +8,8 @@ sfdx force:user:permset:assign --permsetname ATIS_Admin
 sfdx force:data:bulk:upsert -s ATIS__c -f data/ATIS-bulk-load.csv -i Ext_Id__c
 
 #install EVL Playgound Package (version 1.22) & Einstein Language Intent Accuracy Package
-sfdx force:package:install -p 04t0b000001oXjv 
-sfdx force:package:install -p 04t4J000002AU1H
+sfdx force:package:install -p 04t0b000001oXjv --noprompt
+sfdx force:package:install -p 04t4J000002AU1H --noprompt
 
 #Create Heroku App 
 sfdx shane:heroku:repo:deploy -g mshanemc -r heroku-empty -n `basename "${PWD/mshanemc-}" | awk -F'-' '{print "medical-appt-" $3}'` -t autodeployed-demos
