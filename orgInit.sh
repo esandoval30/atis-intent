@@ -14,7 +14,8 @@ sfdx force:package:install -p 04t4J000002AU1H --noprompt
 #Create Heroku App 
 sfdx shane:heroku:repo:deploy -g mshanemc -r heroku-empty -n `basename "${PWD/mshanemc-}" | awk -F'-' '{print "medical-appt-" $3}'` -t autodeployed-demos
 # Attach free Einstein Vision and Language add-on + Configure the Playground
-sfdx shane:ai:playground:setupHeroku --verbose -a `basename "${PWD/mshanemc-}" | awk -F'-' '{print "medical-appt-" $3}'` -k 
+basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'
+sfdx shane:ai:playground:setupHeroku --verbose -a `basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'` -k 
 
 #Upload ATIS dataset and train an intent classification model on it
 sfdx shane:ai:dataset:upload -f data/ATIS-intent-training.csv -n AtisDataset --train
