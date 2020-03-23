@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>ALL_Utterances</fullName>
-    <columns>Name</columns>
     <columns>Utterance__c</columns>
     <columns>Original_Intent__c</columns>
     <columns>Predicted_Intent__c</columns>
