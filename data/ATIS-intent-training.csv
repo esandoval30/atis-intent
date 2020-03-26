@@ -85,7 +85,6 @@ which flights are available from tacoma to san jose in the morning on april twen
 which flights are available from san jose to nashville leaving in the morning on april twenty three,atis_flight
 what is the most expensive one way fare between detroit and westchester county,atis_airfare
 what airlines fly between detroit and westchester county,atis_airline
-what are the departure times from detroit to westchester county,atis_flight_time
 what is the latest flight from baltimore to oakland that serves dinner,atis_flight
 what is the earliest flight between baltimore and oakland that serves breakfast,atis_flight
 what airline flies from boston to san diego,atis_airline
