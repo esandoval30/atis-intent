@@ -1,4 +1,4 @@
-sfdx force:org:create -f config/project-scratch-def.json -d 1 -s -w 60
+sfdx force:org:create -f config/project-scratch-def.json -d 45 -s -w 60
 #Add perm set to source code
 sfdx shane:permset:create -n ATIS_Admin -o ATIS__c
 #push source code into scratch org
