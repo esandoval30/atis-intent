@@ -9,7 +9,7 @@ sfdx force:data:bulk:upsert -s ATIS__c -f data/ATIS-bulk-load.csv -i Ext_Id__c
 
 #install EVL Playgound Package (version 1.22) & Einstein Language Intent Accuracy Package
 sfdx force:package:install -p 04t0b000001oXjv --noprompt
-sfdx force:package:install -p 04t4J000002AU1M --noprompt
+sfdx force:package:install -p 04t4J000002AU5O --noprompt
 
 #Create Heroku App 
 basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'
