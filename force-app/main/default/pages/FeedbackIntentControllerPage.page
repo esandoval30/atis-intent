@@ -1,0 +1,159 @@
+<apex:page controller="FeedBackIntentModelController" action="{!init}" showHeader="false" standardStylesheets="false" sidebar="false" applyHtmlTag="false" applyBodyTag="false" docType="html-5.0">
+ 
+    <html xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" lang="en">
+        <head>
+            <meta charset="utf-8" />
+            <meta http-equiv="x-ua-compatible" content="ie=edge" />
+            <title>Salesforce Lightning Design System Trailhead Module</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <!-- Import the Design System style sheet -->
+             <apex:slds /> 
+            <!-- jquery -->
+            <apex:includeScript value="https://code.jquery.com/jquery-3.1.0.min.js"/>
+        </head>    
+      </html>
+      <body>
+        <!-- REQUIRED SLDS WRAPPER -->
+        <div class="slds-scope">
+            
+            <!-- TOAST -->
+            <div id="ToastMessageContainer" class="demo-only  slds-hidden" style="height:4rem">
+                <div class="slds-notify_container slds-is-relative">
+                    <div class="slds-notify slds-notify_toast slds-theme_success" role="status">
+                        <span class="slds-assistive-text">success</span>
+                        <span class="slds-icon_container slds-icon-utility-success slds-m-right_small slds-no-flex slds-align-top" title="Description of icon when needed">
+                            <svg class="slds-icon slds-icon_small" aria-hidden="true">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{!URLFOR($Asset.SLDS, '/assets/icons/utility-sprite/svg/symbols.svg#success')}"></use>
+                            </svg>                            
+                        </span>
+                        <div class="slds-notify__content">
+                            <h2 id="toast-text" class="slds-text-heading_small">toast text</h2>
+                        </div>
+                        <div class="slds-notify__close">
+                            <button class="slds-button slds-button_icon slds-button_icon-inverse" onclick="window.close();" title="Close">
+                                <svg class="slds-button__icon slds-button__icon_large" aria-hidden="true">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{!URLFOR($Asset.SLDS, '/assets/icons/utility-sprite/svg/symbols.svg#close')}"></use>
+                                </svg>
+                                <span class="slds-assistive-text">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Spinner -->
+            <div class="demo-only" style="height:6rem">
+                <div id="spinner" class="slds-spinner_container ">
+                    <div role="status" class="slds-spinner slds-spinner_large">
+                        <span class="slds-assistive-text">Loading</span>
+                        <div class="slds-spinner__dot-a"></div>
+                        <div class="slds-spinner__dot-b"></div>
+                    </div>
+                    <div class="slds-scoped-notification slds-media slds-media_center slds-theme_info" role="status">
+                        <div class="slds-media__figure">
+                            <span class="slds-icon_container slds-icon-utility-info" title="info">
+                                <svg class="slds-icon slds-icon_small" aria-hidden="true">
+                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{!URLFOR($Asset.SLDS,'/assets/icons/utility-sprite/svg/symbols.svg#info')}"></use>
+                                </svg>
+                                <span class="slds-assistive-text">info</span>
+                            </span>
+                        </div>
+                        <div class="slds-media__body">
+                            <p>Processing your request....</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- TABLE -->
+            <table id="tblMisclassified" class="slds-table slds-table_cell-buffer slds-table_bordered">
+                <!-- Header -->
+                <thead>
+                    <tr class="slds-line-height_reset">
+                        <th class="" scope="col">
+                            <div class="slds-truncate" title="Text">Text</div>
+                        </th>
+                        <th class="" scope="col">
+                            <div class="slds-truncate" title="Updating to">Updating to</div>
+                        </th>
+                        <th class="" scope="col">
+                            <div class="slds-truncate" title="Predicted as">Predicted as</div>
+                        </th>
+                    </tr>
+                </thead>
+                <!-- Body -->
+                <tbody>
+                    
+                </tbody>
+            </table>
+            
+            <script>
+                function toastLaunch(misclassifiedEntries){
+                    $("#toast-text").text('Intent Model Updated with ' + misclassifiedEntries.length + ' misclassified utterances. Please RETRAIN your model');
+                    var element = document.getElementById("ToastMessageContainer");
+                    element.classList.toggle("slds-hidden");
+                    spinnerElement = document.getElementById("spinner");
+                    spinnerElement.classList.toggle("slds-hidden");
+                }
+            
+            	function populateTable(misclassifiedEntries) {
+                    var i;
+                    for (i =0; i < misclassifiedEntries.length; i++) {
+                        var newRowContent = "<tr class='slds-hint-parent'>";
+                        newRowContent += "<th data-label='Text' scope='row'>";
+                        newRowContent += "<div class='slds-truncate' title='Text'>" + misclassifiedEntries[i].utterance  + "</div></th>";  
+                        newRowContent += "<td data-label='Updating to'>";
+                        newRowContent += "<div class='slds-truncate' title='Updating to'>" + misclassifiedEntries[i].actualIntent + "</div></td>";
+                        newRowContent += "<td data-label='Predicted as'>";
+                        newRowContent += "<div class='slds-truncate' title='Predicted as'>" + misclassifiedEntries[i].predictedIntent + "</div></td>";
+                        newRowContent += "</tr>";
+
+                        //console.log (newRowContent);
+   
+                        $("#tblMisclassified tbody").append(newRowContent);
+                    }
+                }
+
+            	
+            
+                //Invoke Execute Visualforce Query
+                $(function() {
+                    $.ajaxSetup({
+                        headers: {"Authorization": 'Bearer {!$Api.Session_ID}'}
+                    });
+                    setTimeout(executeQuery, 10000);
+                });
+            
+                function executeQuery() {
+                    var query = {};
+                    query.statements = "{!JSENCODE(query)}";
+                    var queryObj = {query: query.statements};
+                    $.ajax({
+                        type: 'POST',
+                        url: '/services/data/v39.0/wave/query',
+                        data: JSON.stringify(queryObj),
+                        contentType: 'application/json',
+                        success: function(data) {
+                            setTimeout(function() {updateIntentModel(data.results.records);}, 1000);
+                        },
+                    });
+                }            
+                function updateIntentModel(tableRecords) {
+                    FeedBackIntentModelController.updateIntentModel(tableRecords, function(result, event) {
+                        console.log(result);
+                        if (event.status) {                            
+                            toastLaunch(result);
+                            populateTable(result);
+                        }
+                        else {
+                            $('#toast-text').text('Error: ' + event.message);
+                        }
+                    });
+                }
+       
+            </script>
+            
+        </div>
+      
+    </body>
+
+</apex:page>

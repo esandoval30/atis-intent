@@ -1,4 +1,7 @@
 sfdx force:org:create -f config/project-scratch-def.json -d 1 -s -w 60
+#install EVL Playgound Package (version 1.22) 
+sfdx force:package:install -p 04t0b000001oXjv --noprompt
+
 #Add perm set to source code
 sfdx shane:permset:create -n ATIS_Admin -o ATIS__c
 #push source code into scratch org
@@ -7,8 +10,7 @@ sfdx force:user:password:generate
 sfdx force:user:permset:assign --permsetname ATIS_Admin
 sfdx force:data:bulk:upsert -s ATIS__c -f data/ATIS-bulk-load.csv -i Ext_Id__c
 
-#install EVL Playgound Package (version 1.22) & Einstein Language Intent Accuracy Package
-sfdx force:package:install -p 04t0b000001oXjv --noprompt
+#install Einstein Language Intent Accuracy Package
 sfdx force:package:install -p 04t4J000002AU7A --noprompt
 
 #Create Heroku App 
