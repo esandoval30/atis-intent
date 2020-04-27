@@ -1,4 +1,4 @@
-sfdx force:org:create -f config/project-scratch-def.json -d 1 -s -w 60
+sfdx force:org:create -f config/project-scratch-def.json -d 30 -s -w 60
 #install EVL Playgound Package (version 1.22) 
 sfdx force:package:install -p 04t0b000001oXjv --noprompt -w 60
 
