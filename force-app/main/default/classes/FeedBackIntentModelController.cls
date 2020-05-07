@@ -15,20 +15,19 @@ public class FeedBackIntentModelController {
     @RemoteAction
     public static List<Map<String, String>> updateIntentModel(List <Map<String, String>> tableRecords) {
         List<Map<String, String>> result = new List<Map<String, String>>();
-        
+
+        //Let's interact with an Einstein Language Intent Model
+        einsteinplay.Einstein_PredictionService service = new einsteinplay.Einstein_PredictionService(einsteinplay.Einstein_PredictionService.Types.INTENT);
+    
         for (Map<String, String> r : tableRecords) {
             String utterance = r.get(TEXT_DIMENSION_NAME);
             String actualIntent = r.get(ORIGINAL_DIMENSION_NAME);
             String predictedIntent = r.get(PREDICTED_DIMENSION_NAME);
             
-            //Let's interact with an Einstein Language Intent Model
-            einsteinplay.Einstein_PredictionService service = new einsteinplay.Einstein_PredictionService(einsteinplay.Einstein_PredictionService.Types.INTENT);
-    
-            
             //If misclassified
             if (!String.isBlank(utterance) && !String.isBlank(actualIntent) && !String.isBlank(predictedIntent) && !actualIntent.equals(predictedIntent)) {
                 
-                // Add Feedback
+                // Add Feedback to Intent Model Dataset! - One-liner courtesy of Einstein Playground
                 einsteinplay.Einstein_Example example =  service.createFeedbackLanguageExample(actualIntent, MODEL_ID, utterance);
                 
                 //Add Entry to be returned to the Visualforce page
