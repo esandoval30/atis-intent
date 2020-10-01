@@ -1,6 +1,7 @@
 sfdx force:org:create -f config/project-scratch-def.json -d 3 -s -w 60
 #install EVL Playgound Package (version 1.22) 
-sfdx force:package:install -p 04t0b000001oXjv --noprompt -w 60
+#sfdx force:package:install -p 04t0b000001oXjv --noprompt -w 60
+sfdx force:package:install -p 0A3B0000000Jh9N --noprompt -w 60
 
 #Add perm set to source code
 sfdx shane:permset:create -n ATIS_Admin -o ATIS__c
@@ -11,8 +12,8 @@ sfdx force:user:permset:assign --permsetname ATIS_Admin
 sfdx force:data:bulk:upsert -s ATIS__c -f data/ATIS-bulk-load.csv -i Ext_Id__c
 
 #install Einstein Language Intent Accuracy Package
-#sfdx force:package:install -p 04t4J000002AU7A --noprompt
-sfdx force:package:install -p 0A3B0000000Jh9N --noprompt
+sfdx force:package:install -p 04t4J000002AU7A --noprompt
+#sfdx force:package:install -p 0A3B0000000Jh9N --noprompt
 
 #Create Heroku App 
 basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'
