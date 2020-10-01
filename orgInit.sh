@@ -1,7 +1,7 @@
 sfdx force:org:create -f config/project-scratch-def.json -d 3 -s -w 60
-#install EVL Playgound Package (version 1.22) 
+#install EVL Playgound Package (version 1.32) 
 #sfdx force:package:install -p 04t0b000001oXjv --noprompt -w 60
-sfdx force:package:install -p 0A3B0000000Jh9N --noprompt -w 60
+sfdx force:package:install -p 04t0b000000VtzV --noprompt -w 60
 
 #Add perm set to source code
 sfdx shane:permset:create -n ATIS_Admin -o ATIS__c
