@@ -13,7 +13,6 @@ sfdx force:data:bulk:upsert -s ATIS__c -f data/ATIS-bulk-load.csv -i Ext_Id__c
 
 #install Einstein Language Intent Accuracy Package
 sfdx force:package:install -p 04t4J000002AU7A --noprompt
-#sfdx force:package:install -p 0A3B0000000Jh9N --noprompt
 
 #Create Heroku App 
 basename "${PWD/mshanemc-}" | awk -F'-' '{print "atis-" $4}'
